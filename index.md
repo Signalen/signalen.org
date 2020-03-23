@@ -1,30 +1,56 @@
 # Signalen
 
+Signalen software helps cities manage and prioritize nuisance reports and other incoming public space data.
+
 Signalen makes it easier for residents to make a nuisance report, and helps the city respond to the most important things first.
 
-Signalen includes:
-
-* algorithmic processing by type of complaint and second layer triaging and prioritisation by humans
-* automatic updates to complainants about the status of their report
-* automatic alerts to city staff based on analysis of combined reports
-* easy passing on of reports to other city workers and subcontractors
-
-## The Signalen team
-
-To make Signalen fully reusable outside of Amsterdam, [VNG Realisatie](https://www.vngrealisatie.nl/) is working together with Den Bosch, Almere and Amsterdam, and supported by the [Foundation for Public Code](https://publiccode.net/). The team will start work in spring 2020.
-
-Our goals for 2020 are to:
+The Signalen team's goals for 2020 are to:
 
 * make the code reusable for other municipalities
 * get the code into production at another municipality
+
+## Built for Amsterdam
+
+Built by the City of Amsterdam in 2018, Signalen handled 160,000 complaints in its first year. It replaced over 40 different reporting channels, which had previously been separately staffed.
+
+## How it works
+
+Signalen gives municipalities one integrated tool to manage and prioritize nuisance reports and other incoming public space data. It receives and combines reports, helps the control center (meldkamer) prioritize and manage issues, and can send jobs to other city departments.
+
+Signalen is faster and more efficient because it:
+
+* automatically classifies reports
+* easily exchanges data with other systems
+
+### Features
+
+Signalen includes:
+
+* a citizen facing form with dynamic fields based on nuisane complaint type
+* algorithmic processing by type of complaint
+* ability to combine complaints with other public space data, for example from IoT sensors on street furniture
+* an administration interface to allow report triaging and management by the control center
+* automatic alerts to city staff based on analysis of combined reports
+* automatic updates to complainants about the status of their report
+* rich data so city staff can analyze long term trends
+* easy integration with other software systems, including municipal contractors
+
+Signalen is an open source project - this means it's always being added to and improved.
+
+## The Signalen team
+
+[VNG Realisatie](https://www.vngrealisatie.nl/) is working together with Den Bosch, Almere and Amsterdam to make Signalen fully reusable outside of Amsterdam.
+
+The team will start work in spring 2020.
+
+This project is being stewarded by the [Foundation for Public Code](https://publiccode.net/).
 
 ## Find out more
 
 [Read all our Signalen news](https://commonground.nl/groups/view/54477168/signalen) (in Dutch).
 
-## Legal framework
+We have [specific information for civil servants] on how to get Signalen for your organization.
 
-Signalen was built from the start to comply with these laws:
+Technologists, please [dive into our code and community] - we're friendly and always eager for more collaborators.
 
-* AVG, the Dutch EU [General Data Protection Regulation](https://eur-lex.europa.eu/eli/reg/2016/679/oj) (GDPR)
-* The Dutch [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376/2020-01-01)
+Or email us at <signalen@publiccode.net> - we'd love to hear how we can make Signalen work for you.
