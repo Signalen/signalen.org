@@ -4,32 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{site.title}}</title>
-    <style>
-        html, body {
-            margin: 0;
-            background-color: whitesmoke;
-        }
-        header>*, main>*, footer>* {
-            width: 100%;
-            max-width: 50rem;
-            margin: auto;
-            padding: 1rem;
-        }
-        header {
-            background-color: #0085FF;
-            color: white;
-        }
-        header h1 {
-            font-size: 6em;
-            font-weight: normal;
-        }
-        a:link, a:visited, a:hover {
-            color: inherit;
-        }
-        main {
-            background-color: white;
-        }
-    </style>
+    <link rel="stylesheet" href="{{site.url}}/assets/style.css">
 </head>
 <body>
 
@@ -40,7 +15,7 @@
     </header>
     
     <main>
-        <article>
+        <article class="markdown-body">
         {{content}}
         </article>
     </main>
@@ -49,10 +24,16 @@
         <section>
             <h3>Contributing</h3>
             <ul>
-                <li><a href="{{site.url}}/CONTRIBUTING">Contributing guide</a></li>
+                <li><a href="{{site.url}}/CONTRIBUTING.html">Contributing guide</a></li>
                 <li>GitHub Repository: <a href="{{ site.github.repository_url }}">{{ site.github.owner_name }}/{{ site.github.repository_name }}</a></li>
             </ul>
-          </section>
+        </section>
+        <section>
+            <h3>News</h3>
+            <ul>
+                <li>🇳🇱 <a href="https://commonground.nl/groups/view/54477168/signalen">Common Ground: Signalen</a></li>
+            </ul>
+        </section>
     </footer>
 </body>
 </html>
