@@ -1,0 +1,12 @@
+title: Signalen
+permalinks: pretty
+
+include:
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - LICENSE.md
+
+# Exclude the `vendor` folder created by Travis
+exclude:
+  - vendor
