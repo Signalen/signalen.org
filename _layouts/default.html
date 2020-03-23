@@ -4,32 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{site.title}}</title>
-    <style>
-        html, body {
-            margin: 0;
-            background-color: whitesmoke;
-        }
-        header>*, main>*, footer>* {
-            width: 100%;
-            max-width: 50rem;
-            margin: auto;
-            padding: 1rem;
-        }
-        header {
-            background-color: #0085FF;
-            color: white;
-        }
-        header h1 {
-            font-size: 6em;
-            font-weight: normal;
-        }
-        a:link, a:visited, a:hover {
-            color: inherit;
-        }
-        main {
-            background-color: white;
-        }
-    </style>
+    <link rel="stylesheet" href="{{site.url}}/assets/style.css">
 </head>
 <body>
 
@@ -40,7 +15,7 @@
     </header>
     
     <main>
-        <article>
+        <article class="markdown-body">
         {{content}}
         </article>
     </main>
