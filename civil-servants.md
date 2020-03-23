@@ -4,10 +4,10 @@ We're rebuilding Signalen so that municipalities throughout the Netherlands can 
 
 Signalen's advantages include:
 
-- automatic report classification (increasing efficiency because no humans need to be involved)
-- realtime overview of reports, status and history
-- easy integration with other systems through standard APIs (including for external contractors and subcontractors)
-- rich data and analysis opportunities to improve processes
+* automatic report classification (increasing efficiency because no humans need to be involved)
+* realtime overview of reports, status and history
+* easy integration with other systems through standard APIs (including for external contractors and subcontractors)
+* rich data and analysis opportunities to improve processes
 
 ## Operating Signalen
 
@@ -27,8 +27,8 @@ We're building Signalen to be open source from the start. This allows a flourish
 
 Signalen was built from the start to comply with these laws:
 
-- EU [General Data Protection Regulation](https://eur-lex.europa.eu/eli/reg/2016/679/oj) (GDPR)
-- The Dutch [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376/2020-01-01)
+* EU [General Data Protection Regulation](https://eur-lex.europa.eu/eli/reg/2016/679/oj) (GDPR)
+* The Dutch [Archiefwet 1995](https://wetten.overheid.nl/BWBR0007376/2020-01-01)
 
 ### Standards compliance and APIs
 
@@ -36,10 +36,10 @@ Signalen is built around common standards and APIs to make it easy to exchange d
 
 Signalen already complies with:
 
-- [Common Ground standards](https://commonground.nl/cms/view/54476259/wat-is-common-ground/54476519) 
-- CROW (standard main categories and subcategories for machine learning data model classification)
+* [Common Ground standards](https://commonground.nl/cms/view/54476259/wat-is-common-ground/54476519)
+* CROW (standard main categories and subcategories for machine learning data model classification)
 
-Signalen is easily connected to existing nuisance complaint systems (like [Verbeterdebuurt](https://www.verbeterdebuurt.nl/) and BuitenBeter(https://www.buitenbeter.nl/).
+Signalen is easily connected to existing nuisance complaint systems (like [Verbeterdebuurt](https://www.verbeterdebuurt.nl/) and [BuitenBeter](https://www.buitenbeter.nl/).
 
 It already has APIs for connection to common municipal contractors' systems (like Sigmax).
 
