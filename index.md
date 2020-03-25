@@ -4,7 +4,7 @@ Signalen software helps cities manage and prioritize nuisance reports and other 
 
 Signalen makes it easier for residents to make a nuisance report, and helps the city respond to the most important things first.
 
-The Signalen team's goals for 2020 are to:
+The Signalen teams' goals for 2020 are to:
 
 * make the code reusable for other municipalities
 * get the code into production at another municipality
@@ -39,11 +39,13 @@ Signalen is an open source project - this means it's always being added to and i
 
 ## The Signalen teams
 
-[VNG Realisatie](https://www.vngrealisatie.nl/) is working together with Den Bosch, Almere and Amsterdam to make Signalen fully reusable outside of Amsterdam.
+Amsterdam has had a Signalen team in place since 2018
 
-The team will start work in spring 2020.
+[VNG Realisatie](https://www.vngrealisatie.nl/) is working together with Den Bosch, Almere and the Amsterdam team to make Signalen fully reusable outside of Amsterdam.
 
-This project is being stewarded by the [Foundation for Public Code](https://publiccode.net/).
+The VNG team will start work in spring 2020.
+
+This codebase is being stewarded by the [Foundation for Public Code](https://publiccode.net/).
 
 ## Find out more
 

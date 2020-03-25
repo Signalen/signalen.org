@@ -1,8 +1,6 @@
 # Signalen for developers and vendors
 
-The Signalen team plans to start work on making Signalen open and reusable during spring and summer 2020. We're currently working on Amsterdam's Signalen repo, with the goal of moving Signalen to a separate master repo later this year.
-
-Signalen is changing every day, but in the meantime we invite you to explore our code, have a tinker and give us feedback.
+The Signalen teams plan to start work on making Signalen open and reusable in spring 2020. Signalen is changing every day, but in the meantime we invite you to explore our code, have a tinker and give us feedback.
 
 You can learn more about our work or contribute to Signalen at:
 
