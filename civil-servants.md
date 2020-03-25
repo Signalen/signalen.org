@@ -45,6 +45,4 @@ It already has APIs for connection to common municipal contractors' systems (lik
 
 ## Learn more about Signalen
 
-This [Common Ground video](https://vimeo.com/389843091/b2d06ebfc0) (9 minutes, in Dutch) provides a full service walkthrough, from citizen-facing frontend to complaint management dashboards, admin consoles and analytics.
-
-Or email <signalen@publiccode.net> to request a demo for your organization.
+Email <signalen@publiccode.net> to request a demo for your organization.
