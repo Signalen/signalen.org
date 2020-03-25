@@ -37,7 +37,7 @@ Signalen includes:
 
 Signalen is an open source project - this means it's always being added to and improved.
 
-## The Signalen team
+## The Signalen teams
 
 [VNG Realisatie](https://www.vngrealisatie.nl/) is working together with Den Bosch, Almere and Amsterdam to make Signalen fully reusable outside of Amsterdam.
 

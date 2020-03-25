@@ -41,7 +41,7 @@ Signalen already complies with:
 
 Signalen is easily connected to existing nuisance complaint systems (like [Verbeterdebuurt](https://www.verbeterdebuurt.nl/) and [BuitenBeter](https://www.buitenbeter.nl/).
 
-It already has APIs for connection to common municipal contractors' systems (like Sigmax).
+It already has APIs for connection to common municipal contractors' systems (like [Sigmax](https://www.sigmax.nl/)).
 
 ## Learn more about Signalen
 
