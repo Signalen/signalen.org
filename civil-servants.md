@@ -1,6 +1,6 @@
 # Signalen for civil servants
 
-We're rebuilding Signalen so that municipalities everywhere can benefit.
+We're improving Signalen so that municipalities everywhere can benefit.
 
 Signalen's advantages include:
 
