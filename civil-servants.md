@@ -15,7 +15,7 @@ Signalen is unlike any other control center software currently on the market.
 
 ### Reliability
 
-Amsterdam's Signalen implementation has a high uptime. We believe an even higher percentage is possible. We're currently rearchitecting Signalen to make it easier to maintain and troubleshoot.
+Amsterdam's Signalen implementation has a high uptime. We believe an even higher percentage is possible. We're currently extending Signalen to make it easier to maintain and troubleshoot.
 
 [Read more about Amsterdam's use of Signalen](https://commonground.nl/news/view/54476472/nieuw-meldingensysteem-amsterdam-leert-zelf-van-meldingen) (in Dutch).
 
