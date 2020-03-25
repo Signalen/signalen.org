@@ -16,7 +16,7 @@ Join our community at:
 
 ## Vendors
 
-We will need vendors to both sell Signalen or sell services on top of Signalen in the future.
+We will need vendors that can help municipalities of all sizes get Signalen up and running, and keep it running, in a cost effective way.
 
 We've already had interest from many VNG (Vereniging van Nederlandse Gemeenten, representing 355 municipalities) members, as well as Ghent (Belgium).
 
