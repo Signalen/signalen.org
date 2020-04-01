@@ -1,6 +1,6 @@
 # Signalen
 
-Signalen software helps cities manage and prioritize nuisance reports and other incoming public space data.
+Signalen software helps cities manage and prioritize nuisance reports.
 
 Signalen makes it easier for residents to make a nuisance report, and helps the city respond to the most important things first.
 
@@ -9,9 +9,9 @@ The Signalen teams' goals for 2020 are to:
 * make the code reusable for other municipalities
 * get the code into production at another municipality
 
-## Built for Amsterdam
+## Worldclass software, built for Amsterdam
 
-Built by the City of Amsterdam in 2018, Signalen handled 160,000 complaints in its first year. It replaced over 40 different reporting channels, which had previously been separately staffed.
+Built by the City of Amsterdam in 2018, Signalen handles more than 250,000 reports every year. It replaced over 40 different reporting channels, which had previously been separately staffed.
 
 ## How it works
 
@@ -26,7 +26,7 @@ Signalen is faster and more efficient because it:
 
 Signalen includes:
 
-* a citizen facing form with dynamic fields based on nuisane complaint type
+* a citizen facing form with dynamic fields based on nuisance complaint type
 * algorithmic processing by type of complaint
 * ability to combine complaints with other public space data, for example from IoT sensors on street furniture
 * an administration interface to allow report triaging and management by the control center
