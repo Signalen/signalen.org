@@ -13,6 +13,14 @@
         <h1><a href="{{site.url}}">{{site.title}}</a></h1>
         
     </header>
+
+    <nav>
+        <ul>
+            {% for link in site.navigation %}
+            <li><a class="{% if link.href == page.url %}active{% endif %}" href="{{ link.href }}">{{ link.text }}</a></li>
+            {% endfor %}
+        </ul>
+    </nav>
     
     <main>
         <article class="markdown-body">
