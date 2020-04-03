@@ -59,6 +59,7 @@ nav>ul>li>a {
   padding: .8rem;
   color: #0085FF;
   border: .2rem solid rgb(255, 188, 44);
+  text-decoration-line: none !important;
 }
 nav>ul>li>a:visited {
   text-decoration-color:#0085FF;
