@@ -1,6 +1,6 @@
 # Signalen
 
-Signalen software helps cities receive, manage and solve nuisance reports. Signalen is open source and therefor free for others to use.
+Signalen software helps cities receive, manage and solve nuisance reports. Signalen is open source and therefore free for others to use.
 
 ## How it works
 
@@ -18,7 +18,7 @@ Signalen is faster and more efficient because it:
 Signalen includes:
 
 * a citizen facing form with automatic category selection based on algorithmic text processing
-* the ability to combine complaints with other public space data, for example from IoT sensors on street furniture
+* the ability to combine complaints with other public space data, for example from Internet of Things (IoT) sensors on street furniture
 * an administration interface to allow report triaging and management by the control center
 * automatic alerts to city staff based on analysis of combined reports
 * automatic updates to residents about the status of their report
@@ -31,7 +31,7 @@ Signalen is an open source project - this means it's always being added to and i
 
 Built by the City of Amsterdam in 2018, Signalen now handles more than 250,000 reports every year. It replaced over 40 different reporting channels in Amsterdam, which had previously been separately staffed.
 
-In response to strong interest from other Dutch cities, the Association of Dutch Municipalities (VNG) launched a Signalen project in 2020.
+In response to strong interest from other Dutch cities, the [Association of Dutch Municipalities](https://vng.nl/) (VNG) launched a Signalen project in 2020.
 
 ## The Signalen teams
 
@@ -46,7 +46,7 @@ This codebase is being stewarded by the [Foundation for Public Code](https://pub
 The Signalen teams' goals for 2020 are to:
 
 * make the code reusable for other municipalities
-* get Signalen live at another muunicipality
+* get Signalen live at another municipality
 
 ## Find out more
 
