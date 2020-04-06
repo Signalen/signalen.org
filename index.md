@@ -4,7 +4,7 @@ Signalen software helps cities receive, manage and solve nuisance reports. Signa
 
 ## How it works
 
-Signalen gives municipalities one integrated tool to manage and prioritize nuisance reports. 
+Signalen gives municipalities one integrated tool to manage and prioritize nuisance reports.
 
 It helps prioritize and manage issues and workload, and can send work assignments to city departments and external contractors.
 
