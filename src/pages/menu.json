@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Home",
+    "link": "/",
+    "partiallyActive": false
+  },
+  {
+    "title": "For civil servants",
+    "link": "/civil-servants",
+    "partiallyActive": true
+  },
+  {
+    "title": "For developers",
+    "link": "/developers",
+    "partiallyActive": false
+  }
+]

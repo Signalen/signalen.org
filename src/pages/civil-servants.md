@@ -1,3 +1,8 @@
+---
+title: "For civil servants"
+path: "/civil-servants"
+---
+
 # Signalen for civil servants
 
 We're improving Signalen so that municipalities everywhere can benefit.

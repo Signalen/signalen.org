@@ -1,3 +1,8 @@
+---
+title: "For developers"
+path: "/developers"
+---
+
 # Signalen for developers and vendors
 
 The Signalen teams plan to start work on making Signalen open and reusable in spring 2020. Signalen is changing every day, but in the meantime we invite you to explore our code, have a tinker and give us feedback.

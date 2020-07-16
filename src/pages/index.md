@@ -1,3 +1,7 @@
+---
+path: "/"
+---
+
 # Signalen
 
 Signalen software helps cities receive, manage and solve nuisance reports. Signalen is open source and therefore free for others to use.
@@ -56,8 +60,8 @@ The Signalen teams' goals for 2020 are to:
 
 [Read all our Signalen news](https://commonground.nl/groups/view/54477168/signalen) (in Dutch).
 
-We have [specific information for civil servants](civil-servants.md) on how to get Signalen for your organization.
+We have [specific information for civil servants](./civil-servants) on how to get Signalen for your organization.
 
-Technologists, please [dive into our code and community](developers.md) - we're friendly and always eager for more collaborators.
+Technologists, please [dive into our code and community](./developers) - we're friendly and always eager for more collaborators.
 
 Or email us at <signalen@publiccode.net> - we'd love to hear how we can make Signalen work for you.
