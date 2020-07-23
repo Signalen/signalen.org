@@ -2,6 +2,10 @@
 
 Signalen software helps cities receive, manage and solve nuisance reports. Signalen is open source and therefore free for others to use.
 
+Play this video and listen to the experiences of the municipalities of Amsterdam, Almere, Den Bosch and The Hague, along with the Dutch association of municipalities VNG Realisatie. The creation, replication and sustainability of an open source project in public code:
+
+[![Signalen: helping cities manage and prioritize citizens' reports](https://i9.ytimg.com/vi/I2Z-mRFt3pg/mqdefault.jpg?time=1595527942800&sqp=CPik5_gF&rs=AOn4CLBQWrCRTfPFwoyz8za_E1-4-tAMFw)](https://youtu.be/I2Z-mRFt3pg)
+
 ## How it works
 
 Signalen gives municipalities one integrated tool to manage and prioritize nuisance reports.
