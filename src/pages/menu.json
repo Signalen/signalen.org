@@ -1,17 +1,27 @@
 [
   {
-    "title": "Home",
-    "link": "/",
+    "title": "Over Signalen",
+    "link": "/#over-signalen",
     "partiallyActive": false
   },
   {
-    "title": "For civil servants",
-    "link": "/civil-servants",
+    "title": "Signalen gebruiken",
+    "link": "/signalen-gebruiken",
+    "partiallyActive": false
+  },
+  {
+    "title": "Roadmap",
+    "link": "/roadmap",
+    "partiallyActive": false
+  },
+  {
+    "title": "Common Ground",
+    "link": "/common-ground",
     "partiallyActive": true
   },
   {
-    "title": "For developers",
-    "link": "/developers",
-    "partiallyActive": false
+    "title": "Contact",
+    "link": "/contact",
+    "partiallyActive": true
   }
 ]

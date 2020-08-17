@@ -1,26 +1,26 @@
 import React from 'react'
+import { Link } from 'gatsby'
 
 import Container from '../Container'
-import { StyledFooter, StyledFlex, StyledBox } from './index.styles'
-import vngLogo from '../../images/vng-logo.svg'
+import { StyledFooter, StyledMenu } from './index.styles'
+import menu from '../../pages/menu.json'
 
-const Footer = () => (
-  <StyledFooter>
-    <Container>
-      <StyledFlex>
-        <StyledBox textAlign="left">
+const Footer = () => {
+  return (
+    <StyledFooter>
+      <Container>
+        <StyledMenu>
           <ul>
-            <li><a href="https://www.commonground.nl">Common Ground</a></li>
-            <li><a href="https://www.vngrealisatie.nl/over-vngrealisatie">Over VNG Realisatie</a></li>
-            <li><a href="https://commonground.nl/events">Agenda</a></li>
+            {menu.map((item, i) => (
+              <li key={i}>
+                <Link to={item.link}>{item.title}</Link>
+              </li>
+            ))}
           </ul>
-        </StyledBox>
-        <StyledBox textAlign="right">
-          <img src={vngLogo} alt="Logo van VNG Realisatie" />
-        </StyledBox>
-      </StyledFlex>
-    </Container>
-  </StyledFooter>
-)
+        </StyledMenu>
+      </Container>
+    </StyledFooter>
+  )
+}
 
 export default Footer

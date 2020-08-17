@@ -1,10 +1,12 @@
 const path = require('path')
 const { slash } = require('gatsby-core-utils')
 
+const templates = {
+  default: path.resolve('src/templates/default.js')
+}
+
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
-
-  const defaultTemplate = path.resolve('src/templates/default.js')
 
   const result = await graphql(`
     {
@@ -12,6 +14,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
         edges {
           node {
             frontmatter {
+              template
               path
             }
           }
@@ -28,7 +31,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
       path: node.frontmatter.path,
-      component: slash(defaultTemplate)
+      component: slash(templates[node.frontmatter.template || 'default'])
     })
   })
 }

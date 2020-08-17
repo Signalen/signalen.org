@@ -6,8 +6,14 @@ const Box = styled.div`
 
   ${mediaQueries.smUp`
     width: ${(p) => p.width * 100}%;
-    padding: ${(p) => p.theme.tokens.spacing04};
+    padding: ${(p) => p.theme.tokens.spacing08};
+    margin-top: ${(p) => p.theme.tokens.spacing04};
+    margin-bottom: ${(p) => p.theme.tokens.spacing02};
   `}
+
+  h2 {
+    font-size: 26px;
+  }
 `
 
 export default Box

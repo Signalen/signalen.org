@@ -1,14 +1,41 @@
+import { Link } from 'gatsby'
 import styled from 'styled-components/macro'
-import Color from 'color'
-import Container from '../Container'
+import { mediaQueries } from '@commonground/design-system'
 
-export const StyledNavigation = styled.nav`
-  background-color: ${(p) => p.theme.tokens.colorBrand1};
+export const StyledNav = styled.div`
+  display: flex;
+  overflow-y: scroll;
+  justify-content: space-between;
+  padding-top: ${(p) => p.theme.tokens.spacing04};
+  padding-bottom: ${(p) => p.theme.tokens.spacing04};
+  white-space: nowrap;
+
+  a {
+    text-decoration: none;
+    color: #24305E !important;
+  }
+
+  ${mediaQueries.smUp`
+    overflow-y: hidden;
+  `}
 `
 
-export const StyledContainer = styled(Container)`
+export const StyledTitleLink = styled(Link)`
   display: flex;
-  justify-content: space-between;
+  align-items: center;
+`
+
+export const StyledTitle = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-weight: ${(p) => p.theme.tokens.fontWeightBold};
+  font-size: 26px;
+
+  svg {
+    height: 35px;
+    margin-right: ${(p) => p.theme.tokens.spacing04};
+  }
 `
 
 export const StyledList = styled.ul`
@@ -21,16 +48,14 @@ export const StyledList = styled.ul`
 export const StyledListItem = styled.li`
   a {
     padding: ${(p) =>
-      `${p.theme.tokens.spacing05} ${p.theme.tokens.spacing06}`};
-    color: ${(p) => p.theme.colorText};
+      `${p.theme.tokens.spacing05} ${p.theme.tokens.spacing05}`};
+    color: #24305E !important;
     font-weight: ${(p) => p.theme.tokens.fontWeightSemiBold};
     text-decoration: none;
 
     &:active,
     &.active {
       color: ${(p) => p.theme.tokens.colorText};
-      background: ${(p) =>
-        Color(p.theme.tokens.colorBackground).alpha(0.5).hsl().string()};
     }
   }
 
@@ -40,5 +65,10 @@ export const StyledListItem = styled.li`
 
   a {
     display: inline-block;
+  }
+
+  .active {
+    font-weight: ${(p) => p.theme.tokens.fontWeightBold};
+    color: #F76C6C;
   }
 `

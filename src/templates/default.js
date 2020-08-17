@@ -2,8 +2,9 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 import SEO from '../components/SEO'
+import Navigation from '../components/Navigation'
 import Layout from '../components/Layout'
-import Content from '../components/Content'
+import Footer from '../components/Footer'
 import Container from '../components/Container'
 
 export default function Template({ data }) {
@@ -12,11 +13,17 @@ export default function Template({ data }) {
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
-      <Container>
-        <Content>
+      <nav>
+        <Container>
+          <Navigation />
+        </Container>
+      </nav>
+      <main>
+        <Container>
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        </Content>
-      </Container>
+        </Container>
+      </main>
+      <Footer />
     </Layout>
   )
 }

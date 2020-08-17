@@ -4,6 +4,7 @@ module.exports = {
     description: `Signalen software helps cities receive, manage and solve nuisance reports. Signalen is open source and therefore free for others to use.`,
     author: `VNG Realisatie`,
     repositoryUrl: `https://www.github.com/signalen`,
+    slackUrl: `https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
@@ -34,7 +35,7 @@ module.exports = {
         short_name: `signalen`,
         start_url: `/`,
         display: `standalone`,
-        icon: `src/images/cg-icon.png`,
+        icon: `src/images/logo.png`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

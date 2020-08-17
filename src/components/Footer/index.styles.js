@@ -1,7 +1,6 @@
 import styled from 'styled-components/macro'
-import { mediaQueries } from '@commonground/design-system'
 
-export const StyledFooter = styled.footer`
+export const StyledFooter = styled.div`
   background-color: #f5f5f6;
 
   padding-left: ${(p) => p.theme.tokens.spacing04};
@@ -26,20 +25,4 @@ export const StyledFooter = styled.footer`
   }
 `
 
-export const StyledFlex = styled.div`
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-
-  margin-left: -${(p) => p.theme.tokens.spacing04};
-  margin-right: -${(p) => p.theme.tokens.spacing04};
-`
-
-export const StyledBox = styled.div`
-  width: 100%;
-  ${mediaQueries.smUp`
-    width: auto;
-  `}
-
-  padding: ${(p) => p.theme.tokens.spacing04};
-`
+export const StyledMenu = styled.div``
