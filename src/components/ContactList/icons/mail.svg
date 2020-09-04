@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contact" transform="translate(-263.000000, -574.000000)">
+            <g id="Principle-Copy-2" transform="translate(229.000000, 495.000000)">
+                <g id="Group">
+                    <g id="mail" transform="translate(32.000000, 76.000000)">
+                        <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                        <path d="M3,3 L21,3 C21.5522847,3 22,3.44771525 22,4 L22,20 C22,20.5522847 21.5522847,21 21,21 L3,21 C2.44771525,21 2,20.5522847 2,20 L2,4 C2,3.44771525 2.44771525,3 3,3 Z M20,7.238 L12.072,14.338 L4,7.216 L4,19 L20,19 L20,7.238 Z M4.511,5 L12.061,11.662 L19.502,5 L4.511,5 Z" id="Shape" fill="#616161" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

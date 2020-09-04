@@ -6,14 +6,12 @@ This site is a collaborative project by the Signalen community and is meant to b
 
 ## Building, testing and deploying
 
-This site is a GitHub pages site that is built using Jekyll. You can install using Ruby with the `bundle install` command. After this you can use the `./script/serve.sh` to start a local webserver and build/update the site.
+This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure you have [Node](https://nodejs.org/en/) installed on your machine. Then install the dependencies with the `npm install` command. After this you can use the `npm start` to start a local webserver and build/update the site.
 
-Testing is done by Travis. Tests use `./script/test.sh` and are for the completion of the build as well as linting the Markdown file with the default markdownlint set (except for line-length) and the validity of links.
-
-The `master` branch of this repository is automatically deployed using GitHub pages.
+The `master` branch of this repository is automatically deployed using Netlify.
 
 ## License
 
 Copyright © the Signalen contributors.
 
-Licensed under [EUPL](LICENSE.md).
+Licensed under [EUPLv1.2](LICENSE.md).
