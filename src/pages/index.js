@@ -49,7 +49,7 @@ const IndexPage = () => (
       </Section>
 
       <Section textAlign="center">
-        <iframe title="Video met introductie van Sigalen" src="https://www.youtube-nocookie.com/embed/I2Z-mRFt3pg?autoplay=0&showinfo=0&controls=0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+        <iframe title="Video met introductie van Sigalen" src="https://www.youtube-nocookie.com/embed/I2Z-mRFt3pg?autoplay=0&showinfo=0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
       </Section>
 
       <Section>
