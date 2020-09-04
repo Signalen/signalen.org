@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Signalen`,
-    description: `Signalen software helps cities receive, manage and solve nuisance reports. Signalen is open source and therefore free for others to use.`,
+    description: `Signalen is een opensource proces- en taaksysteem voor overheden, dat meldingen over de openbare ruimte automatisch categoriseert en routeert voor afhandeling door de juiste behandelaar.`,
     author: `VNG Realisatie`,
     repositoryUrl: `https://www.github.com/signalen`,
     slackUrl: `https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q`,
