@@ -13,7 +13,7 @@ Omdat Signalen is ontwikkeld met publieke middelen, vindt de gemeente Amsterdam 
 
 ### Signalen en Common Ground
 
-Signalen is toegepast op de ontwerp principes van Common Ground, waardoor het snel, eenvoudig en veilig beschikbaar is voor gemeenten in Nederland. Signalen is ontwikkeld op de [Haven referentie implementatie](https://haven.commonground.nl), de standaard cloud-agnostische infrastructuur die wordt gebruikt voor alle Common Ground initiatieven.
+Signalen is toegepast op de ontwerp principes van Common Ground, waardoor het snel, eenvoudig en veilig beschikbaar is voor gemeenten in Nederland. Signalen is geoptimaliseerd voor de [Haven referentie implementatie](https://haven.commonground.nl), de standaard cloud-agnostische infrastructuur die wordt gebruikt voor alle Common Ground initiatieven.
 
 ### Van wie is de Signalen?
 
