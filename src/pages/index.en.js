@@ -7,7 +7,7 @@ import Flex from '../components/Flex'
 import Box from '../components/Box'
 import ResponsiveImage from '../components/ResponsiveImage'
 import Container from '../components/Container'
-import Footer from '../components/Footer'
+import Footer from '../components/Footer/index.en.js'
 import Section from '../components/Section'
 import Payoff from '../components/Payoff/index.en.js'
 import Heading from '../components/Heading'
@@ -65,11 +65,11 @@ const IndexPage = () => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Meldingen routeren</h2>
-            <p>De automatische classificering kan worden gekoppeld aan dynamische routering. Dit betekent dat op basis van de categorie van een melding, deze automatisch wordt doorverwezen naar de juiste behandelaar en/of afdeling. Iedere gemeenten configureert Signalen voor haar eigen, lokale situatie.</p>
+            <h2>Routing notifications</h2>
+            <p>The automatic classification can be linked to dynamic routing. This means that based on the category of a notification, it is automatically referred to the correct handler and/or department. Each municipality configures Signalen for its own local situation.</p>
           </Box>
           <Box width={2/5}>
-            <ResponsiveImage src={categoriserenRouteren} alt="Illustratie van robot" />
+            <ResponsiveImage src={categoriserenRouteren} alt="Illustration of robot" />
           </Box>
         </Flex>
       </Section>
@@ -80,9 +80,9 @@ const IndexPage = () => (
             <ResponsiveImage src={behandelen} alt="Illustratie van persoon in werkkleding" />
           </Box>
           <Box width={3/5}>
-            <h2>Meldingen behandelen</h2>
-            <p>Medewerkers die meldingen behandelen zien in Signalen altijd de actuele status van een melding, en de historie. Dat scherm kan tot op bepaalde hoogte worden gepersonaliseerd, voor groter werkgemak.</p>
-            <p>Medewerkers hebben geen nieuwe inloggegevens nodig om te werken met Signalen. Inloggen gaat hetzelfde als bij de andere gemeentelijke systemen met behulp van Single Sign On.</p>
+            <h2>Handling reports</h2>
+            <p>Employees handling notifications always see the current status of a notification in Signalen, and its history. That screen can be personalized to a certain extent, for greater ease of work.</p>
+            <p>Employees do not need new login details to work with Signalen. Logging in is the same as with the other municipal systems using Single Sign On.</p>
           </Box>
         </Flex>
       </Section>
@@ -90,11 +90,11 @@ const IndexPage = () => (
       <Section>
         <Flex>
           <Box width={3/5}>
-            <h2>Rapporteren</h2>
-            <p>Signalen kan eenvoudig worden gekoppeld aan rapportagetools zoals Tableau. Rapportages over meldingen openbare ruimte kunnen dus naar eigen wens worden ingericht.</p>
+            <h2>Report</h2>
+            <p>Signalen can easily be linked to reporting tools such as Tableau. Reports on public space reports can therefore be set up according to your own wishes.</p>
           </Box>
           <Box width={2/5}>
-            <ResponsiveImage src={rapportage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
+            <ResponsiveImage src={rapportage} alt="Illustratie of person with tablet showing graphs" />
           </Box>
         </Flex>
       </Section>
@@ -111,8 +111,8 @@ const IndexPage = () => (
         <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q4 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Klaar voor productie</Heading>
-            <p>Oplevering gemeente-neutrale versie Signalen-software. Signalen is klaar voor productie bij de gemeentelijke deelnemers uit de Kopgroep.</p>
+            <Heading as="h3" fontSize="1.5rem">Ready for production</Heading>
+            <p>Delivery of a municipal neutral version of the Signalen software. Signalen is ready for production for the municipal participants from the Kopgroep.</p>
           </Timeline.Content>
         </Timeline.Container>
       </Timeline>
