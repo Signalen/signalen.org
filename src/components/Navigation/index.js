@@ -63,7 +63,9 @@ const Navigation = ({ location }) => {
             <SlackLogo width="26px" />
           </a>
         </StyledListItem>
-        <LanguageSelector languages={languageSelector} />
+        <StyledListItem>
+          <LanguageSelector languages={languageSelector} />
+        </StyledListItem>
       </StyledList>
     </StyledNav>
   )
