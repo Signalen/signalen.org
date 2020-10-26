@@ -7,7 +7,7 @@ import Layout from '../components/Layout'
 import Footer from '../components/Footer'
 import Container from '../components/Container'
 
-export default function Template({ data }) {
+export default function Template({ data, location }) {
   const { markdownRemark: post } = data
 
   return (
@@ -15,7 +15,7 @@ export default function Template({ data }) {
       <SEO title={post.frontmatter.title} />
       <nav>
         <Container>
-          <Navigation />
+          <Navigation location={location} />
         </Container>
       </nav>
       <main>
@@ -30,9 +30,8 @@ export default function Template({ data }) {
 
 export const pageQuery = graphql`
   query($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+    markdownRemark(fields: { slug: { eq: $path } }) {
       frontmatter {
-        path
         title
       }
       html

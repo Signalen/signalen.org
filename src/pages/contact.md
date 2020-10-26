@@ -1,5 +1,4 @@
 ---
-path: "/contact"
 template: "default"
 ---
 

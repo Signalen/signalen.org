@@ -21,11 +21,11 @@ import startOntwikkeling from '../images/start-ontwikkeling.svg'
 import startInitiatief from '../images/start-initiatief.svg'
 import saas from '../images/saas.svg'
 
-const RoadmapPage = () => (
+const RoadmapPage = ({ location }) => (
   <Layout>
     <SEO title="Roadmap" />
     <Container>
-      <Navigation as="nav" />
+      <Navigation as="nav" location={location} />
     </Container>
     <Background backgroundColor="#f5f5f6">
       <Container>

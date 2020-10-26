@@ -11,7 +11,7 @@ const Footer = () => {
       <Container>
         <StyledMenu>
           <ul>
-            {menu.map((item, i) => (
+            {menu['en'].map((item, i) => (
               <li key={i}>
                 <Link to={item.link}>{item.title}</Link>
               </li>

@@ -1,14 +1,12 @@
 ---
-path: "/en/using-signalen"
 template: "default"
-lang: "en"
 ---
 
-## Using Signalen
+## Signalen gebruiken
 
-Since mid-2020, Signalen is also available to other municipalities and governments in the Netherlands.
+Sinds medio 2020 is Signalen ook beschikbaar voor andere gemeenten en overheden in Nederland.
 
-Wil je meer weten over hoe je Signalen kunt gaan gebruiken in jouw gemeente? Neem dan [contact](/contact) met ons op voor een (online) demo van Signalen.
+Wil je meer weten over hoe je Signalen kunt gaan gebruiken in jouw gemeente? Neem dan [contact](/contact/) met ons op voor een (online) demo van Signalen.
 
 ## Voor ontwikkelaars
 

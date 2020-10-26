@@ -1,15 +1,15 @@
 import React from 'react'
 
 import SEO from '../components/SEO'
-import Navigation from '../components/Navigation/index.en.js'
+import Navigation from '../components/Navigation'
 import Layout from '../components/Layout'
 import Flex from '../components/Flex'
 import Box from '../components/Box'
 import ResponsiveImage from '../components/ResponsiveImage'
 import Container from '../components/Container'
-import Footer from '../components/Footer/index.en.js'
+import Footer from '../components/Footer'
 import Section from '../components/Section'
-import Payoff from '../components/Payoff/index.en.js'
+import Payoff from '../components/Payoff'
 import Heading from '../components/Heading'
 import Span from '../components/Span'
 import Background from '../components/Background'
@@ -21,12 +21,12 @@ import categoriserenRouteren from '../images/categoriseren-routeren.svg'
 import behandelen from '../images/behandelen.svg'
 import rapportage from '../images/rapportage.svg'
 
-const IndexPage = () => (
+const IndexPage = ({ location }) => (
   <Layout>
     <SEO title="Working together for quality of life" />
     <Background backgroundColor="#A8D0E6">
       <Container>
-        <Navigation as="nav" />
+        <Navigation as="nav" location={location} />
         <Section>
           <Payoff />
         </Section>

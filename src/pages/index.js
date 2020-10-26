@@ -21,12 +21,12 @@ import categoriserenRouteren from '../images/categoriseren-routeren.svg'
 import behandelen from '../images/behandelen.svg'
 import rapportage from '../images/rapportage.svg'
 
-const IndexPage = () => (
+const IndexPage = ({ location }) => (
   <Layout>
     <SEO title="Samenwerken aan leefbaarheid" />
     <Background backgroundColor="#A8D0E6">
       <Container>
-        <Navigation as="nav" />
+        <Navigation as="nav" location={location} />
         <Section>
           <Payoff />
         </Section>

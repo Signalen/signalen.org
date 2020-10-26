@@ -1,5 +1,4 @@
 ---
-path: "/common-ground"
 template: "default"
 ---
 
