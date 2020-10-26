@@ -23,7 +23,7 @@ export default function Template({ data, location }) {
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
         </Container>
       </main>
-      <Footer />
+      <Footer location={location} />
     </Layout>
   )
 }

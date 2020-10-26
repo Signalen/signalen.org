@@ -117,7 +117,7 @@ const IndexPage = ({ location }) => (
         </Timeline.Container>
       </Timeline>
     </Container>
-    <Footer />
+    <Footer location={location} />
   </Layout>
 )
 
