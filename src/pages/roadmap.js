@@ -56,7 +56,7 @@ const RoadmapPage = () => (
           <Timeline.Content>
             <Span fontSize="0.9rem">2 maart 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Kopgroep Signalen</Heading>
-            <p>‘s-Hertogenbosch, Amsterdam, Almere, VNG Realisatie en de Foundation for Public Code vormen samen de Kopgroep met als doel om Signalen bruikbaar te maken voor andere gemeenten.</p>
+            <p>‘s-Hertogenbosch, Amsterdam, Almere, VNG Realisatie vormen samen de Kopgroep, gefaciliteerd door de Foundation for Public Code met als doel om Signalen bruikbaar te maken voor andere gemeenten.</p>
             <ResponsiveImage src={connectingTeams} />
           </Timeline.Content>
         </Timeline.Container>

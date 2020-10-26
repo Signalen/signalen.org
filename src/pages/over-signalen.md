@@ -5,7 +5,7 @@ template: "default"
 
 ## Samenwerken aan Signalen
 
-In 2020 startte heeft VNG Realisatie in samenwerking met Amsterdam het Signalen Initiatief gestart. Met dit initiatief willen we Signalen om deze slimme oplossing beschikbaar maken te maken voor andere gemeenten en overheden in Nederland. Dit doen zij we samen met de Gemeente ’s-Hertogenbosch, Gemeente Almere en The Foundation for Public Code. Samen maken wij Signalen toepasbaar toegankelijk voor iedere gemeente in Nederland.
+In 2020 startte heeft VNG Realisatie in samenwerking met Amsterdam het Signalen Initiatief gestart. Met dit initiatief willen we Signalen om deze slimme oplossing beschikbaar maken te maken voor andere gemeenten en overheden in Nederland. Dit doen we samen met de Gemeente ’s-Hertogenbosch en Gemeente Almere. We worden daarbij gefaciliteerd door The Foundation for Public Code. Samen maken wij Signalen toepasbaar toegankelijk voor iedere gemeente in Nederland.
 
 Wil je ook Signalen gebruiken?
 
@@ -23,4 +23,3 @@ De wens tot een hogere klanttevredenheid heeft geleid tot de ontwikkeling van Si
 Sinds de invoering is de klanttevredenheid over de afhandeling van meldingen in Amsterdam met 30 procent gestegen.
 
 Video over Signalen in Amsterdam: https://www.youtube.com/watch?v=I2Z-mRFt3pg
-
