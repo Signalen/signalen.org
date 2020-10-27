@@ -4,7 +4,7 @@ template: "default"
 
 ## Common ground
 
-[Common Ground] (https://www.commonground.nl) stands for a new, modern, joint information provision for municipalities. Where data is seperated from work processes and applications. And where data is used multiple times at the source. In essence, that is the basic premise of Common Ground. A radical reform of the provision of information, which requires a new way of collaboration between municipalities and the market.
+[Common Ground](https://www.commonground.nl) stands for a new, modern, joint information provision for municipalities. Where data is seperated from work processes and applications. And where data is used multiple times at the source. In essence, that is the basic premise of Common Ground. A radical reform of the provision of information, which requires a new way of collaboration between municipalities and the market.
 
 ### Share
 
@@ -12,7 +12,7 @@ Because Signalen has been developed with public funds, the municipality of Amste
 
 ### Signalen and Common Ground
 
-Signals has been applied to the design principles of Common Ground, making it quickly, easily and safely available to municipalities in the Netherlands. Signals is optimized for the [Haven reference implementation] (https://haven.commonground.nl), the standard cloud-agnostic infrastructure used for all Common Ground initiatives.
+Signals has been applied to the design principles of Common Ground, making it quickly, easily and safely available to municipalities in the Netherlands. Signals is optimized for the [Haven reference implementation](https://haven.commonground.nl), the standard cloud-agnostic infrastructure used for all Common Ground initiatives.
 
 ### Who owns the Signalen?
 
