@@ -34,7 +34,7 @@ contains all the items and translations. To add a new language simply copy anoth
     "partiallyActive": false
   },
 ```
-The footer part of the website is generated using the values listed in the `menu.json` file. 
+The footer part of the website is generated using the values listed in the `menu.json` file.
 
 ### Imported pages do not automatically resolve to lanuguage specific versions
 
