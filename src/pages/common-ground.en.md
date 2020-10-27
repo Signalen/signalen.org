@@ -2,7 +2,7 @@
 template: "default"
 ---
 
-## Common ground
+## Common Ground
 
 [Common Ground](https://www.commonground.nl) stands for a new, modern, joint information provision for municipalities. Where data is seperated from work processes and applications. And where data is used multiple times at the source. In essence, that is the basic premise of Common Ground. A radical reform of the provision of information, which requires a new way of collaboration between municipalities and the market.
 
