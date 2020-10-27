@@ -44,7 +44,7 @@ For example `import Payoff from '../components/Payoff/` will always resolve to `
 
 In order to add a translation refer to all english related files and make a copy of them including the new language code. Check the `import` statements in the page to check wether they point to the correct translated version of that file.
 
-In the current configuration only the Payoff component needs to be translated in this fashion.
+In the current configuration only the Payoff component and the Roadmap page and component needs to be translated in this fashion.
 
 More information about the configuration and implementation can be found here:
 https://www.gatsbyjs.com/blog/2020-02-19-how-to-build-multilingual-sites-with-gatsby/
