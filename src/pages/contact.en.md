@@ -4,7 +4,7 @@ template: "default"
 
 ## Contact
 
-Want to work together and use Signals? Please contact:
+Want to work together and use Signalen? Please contact:
 
 ### Program manager VNG Realisatie
 
