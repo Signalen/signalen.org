@@ -20,13 +20,31 @@ You can start your won translation by prefixing the extenstions of files which s
 ```example:
 index.en.js serves the english equivalent of that page.
 ```
-
 The plugin makes all the language specific files available under the site-root/<language code> so in the case of english site-root/en/.
 
+### Navigation menu
+The navigation menu uses a a key-value list to translate the seperate navigation itmems. The `pages/menu.json` file
+contains all the items and translations. To add a new language simply copy another language array, insert the language code and make the language specific translations.
+
+```
+"nl": [
+  {
+    "title": "Over Signalen",
+    "link": "/#over-signalen",
+    "partiallyActive": false
+  },
+```
+The footer part of the website is generated using the values listed in the `menu.json` file. 
+
+### Imported pages do not automatically resolve to lanuguage specific versions
+
 Imports in pages need to be referenced explicitely and do not resolve automatically.
-For example `import Navigation from '../components/Navigation/` will alwasy resolve to `import Navigation from '../components/Navigation/index.js`. So if you need to reference a language specific version you should indicate the filename `import Navigation from '../components/Navigation/index.en.js`.
+
+For example `import Payoff from '../components/Payoff/` will always resolve to `import Payoff from '../components/Payoff/index.js`. So if you need to reference a language specific version you should indicate the filename `import Payoff from '../components/Payoff/index.en.js`.
 
 In order to add a translation refer to all english related files and make a copy of them including the new language code. Check the `import` statements in the page to check wether they point to the correct translated version of that file.
+
+In the current configuration only the Payoff component needs to be translated in this fashion.
 
 More information about the configuration and implementation can be found here:
 https://www.gatsbyjs.com/blog/2020-02-19-how-to-build-multilingual-sites-with-gatsby/
