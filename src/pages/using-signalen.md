@@ -15,7 +15,7 @@ Ben je een ontwikkelaar en wil je ons helpen met de doorontwikkeling van Signale
 - Kijk [hier](https://github.com/signalen) voor de Signalen-repository op Github.
 - API-specificaties en documentatie staan [hier](https://api.data.amsterdam.nl/api/swagger/?url=/signals/swagger/openapi.yaml#/default/get_signals_v1_private_signals_geography).
 
-## Voor project en product managers
+## Voor project- en product managers
 
 Ben je binnen je gemeente verantwoordelijk voor de openbare ruimte en wil je graag helpen de toekomstige ontwikkeling van Signalen verder vorm te geven?
 Dan kun je op de volgende manieren bijdragen:
