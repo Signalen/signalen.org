@@ -34,6 +34,12 @@ const RoadmapPage = ({ location }) => (
         </Section>
       </Container>
     </Background>
+    <Containter>
+      <Section>
+          Heb je ideeën over de toekomstige ontwikkeling van Signalen of mis
+          je bepaalde functionaliteit? Kijk op ons <a href="https://github.com/orgs/Signalen/projects/2">feature request backlog</a>.
+      </Section>
+    </Container>
     <Container>
       <Timeline>
       <Timeline.Container align="right">
