@@ -32,6 +32,6 @@ René van Sprang<br />
 Categoriemanager gemeente Amsterdam<br />
 [r.van.sprang@amsterdam.nl](mailto:r.van.sprang@amsterdam.nl)
 
-## Kom in contact met de Signalen Community
+### Kom in contact met de Signalen Community
 
 Wil je discusieren en mee beslissen over de verdere ontwikkeling van Signalen? Schrijf je dan in op de [Signalen mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/).
