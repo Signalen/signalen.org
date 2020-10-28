@@ -37,7 +37,7 @@ const RoadmapPage = ({ location }) => (
     <Container>
       <Section>
           Heb je ideeën over de toekomstige ontwikkeling van Signalen of mis
-          je bepaalde functionaliteit? Kijk op ons <a href="https://github.com/orgs/Signalen/projects/2">feature request backlog</a>.
+          je bepaalde functionaliteit? Kijk op het <a href="https://github.com/orgs/Signalen/projects/2">feature request backlog</a>.
       </Section>
     </Container>
     <Container>
