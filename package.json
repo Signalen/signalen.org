@@ -5,8 +5,9 @@
   "dependencies": {
     "@commonground/design-system": "12.5.0",
     "formik": "2.1.4",
-    "gatsby": "2.24.2",
+    "gatsby": "2.24.86",
     "gatsby-image": "2.4.13",
+    "gatsby-plugin-i18n": "1.0.1",
     "gatsby-plugin-manifest": "2.4.18",
     "gatsby-plugin-offline": "3.2.17",
     "gatsby-plugin-react-helmet": "3.3.10",

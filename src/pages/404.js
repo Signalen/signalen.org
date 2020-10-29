@@ -7,10 +7,11 @@ import SEO from '../components/SEO'
 
 const NotFoundPage = () => (
   <Layout>
-    <SEO title="Page not found" />
+    <SEO title="Pagina niet gevonden / page not found" />
     <Container>
       <Section>
-        <h1>Page not found</h1>
+        <h1>Pagina niet gevonden / page not found</h1>
+        <p>We konden de opgevragen pagina niet vinden.</p>
         <p>We could not find the requested page.</p>
       </Section>
     </Container>

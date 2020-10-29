@@ -13,9 +13,12 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       allMarkdownRemark(limit: 10000) {
         edges {
           node {
+            fields {
+              slug
+              langKey
+            }
             frontmatter {
               template
-              path
             }
           }
         }
@@ -30,7 +33,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
-      path: node.frontmatter.path,
+      path: node.fields.slug,
       component: slash(templates[node.frontmatter.template || 'default'])
     })
   })

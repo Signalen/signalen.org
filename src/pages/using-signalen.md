@@ -1,5 +1,4 @@
 ---
-path: "/signalen-gebruiken"
 template: "default"
 ---
 
@@ -7,7 +6,7 @@ template: "default"
 
 Sinds medio 2020 is Signalen ook beschikbaar voor andere gemeenten en overheden in Nederland.
 
-Wil je meer weten over hoe je Signalen kunt gaan gebruiken in jouw gemeente? Neem dan [contact](/contact) met ons op voor een (online) demo van Signalen.
+Wil je meer weten over hoe je Signalen kunt gaan gebruiken in jouw gemeente? Neem dan [contact](/contact/) met ons op voor een (online) demo van Signalen.
 
 ## Voor ontwikkelaars
 

@@ -5,6 +5,8 @@ module.exports = {
     author: `VNG Realisatie`,
     repositoryUrl: `https://www.github.com/signalen`,
     slackUrl: `https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q`,
+    languages: ['en' ,'nl'],
+    defaultLanguage: 'nl'
   },
   plugins: [
     `gatsby-plugin-styled-components`,
@@ -37,6 +39,15 @@ module.exports = {
         display: `standalone`,
         icon: `src/images/logo.png`,
       },
+    },
+    `gatsby-plugin-i18n`,
+    {
+      resolve: `gatsby-plugin-i18n`,
+      options: {
+        langKeyDefault: 'nl',
+        useLangKeyLayout: false,
+        prefixDefault: false,
+      },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline

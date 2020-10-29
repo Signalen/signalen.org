@@ -4,30 +4,30 @@ template: "default"
 
 ## Contact
 
-Samenwerken en Signalen gebruiken? Neem dan contact op met:
+Want to work together and use Signalen? Please contact:
 
-### Programmamanager VNG Realisatie
+### Program manager VNG Realisatie
 
 Jacco Brouwer<br />
-Programmamanager VNG Realisatie<br />
+Program manager VNG Realisatie<br />
 [jacco.brouwer@vng.nl](mailto:jacco.brouwer@vng.nl)
 
-### Community en accountmanagement
+### Community and accountmanagement
 
 Wouter Heijnen<br />
-Innovatie manager<br />
+Innovation manager<br />
 [wouter.heijnen@vng.nl](mailto:wouter.heijnen@vng.nl)
 
-### Vertegenwoordigers van de gemeentelijke deelnemers
+### Representatives from participating municipalities
 
 Erik Veerman<br />
-Projectleider gemeente ‘s-Hertogenbosch<br />
+Project lead municipality of ‘s-Hertogenbosch<br />
 [e.veerman@s-hertogenbosch.nl](mailto:e.veerman@s-hertogenbosch.nl)
 
 Gerry de Koning<br />
-Informatie manager fysiek domein gemeente Almere<br />
+Information manager physical domain municipality of Almere<br />
 [gpdkoning@almere.nl](mailto:gpdkoning@almere.nl)
 
 René van Sprang<br />
-Categoriemanager gemeente Amsterdam<br />
+Category manager municipality of Amsterdam<br />
 [r.van.sprang@amsterdam.nl](mailto:r.van.sprang@amsterdam.nl)
