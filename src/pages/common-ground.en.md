@@ -12,7 +12,7 @@ Because Signalen has been developed with public funds, the municipality of Amste
 
 ### Signalen and Common Ground
 
-Signals has been applied to the design principles of Common Ground, making it quickly, easily and safely available to municipalities in the Netherlands. Signals is optimized for the [Haven reference implementation](https://haven.commonground.nl), the standard cloud-agnostic infrastructure used for all Common Ground initiatives.
+Signalen has been applied to the design principles of Common Ground, making it quickly, easily and safely available to municipalities in the Netherlands. Signalen is optimized for the [Haven reference implementation](https://haven.commonground.nl), the standard cloud-agnostic infrastructure used for all Common Ground initiatives.
 
 ### Who owns the Signalen?
 
