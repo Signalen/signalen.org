@@ -27,4 +27,4 @@ Then you can contribute in the following ways:
 
 Every two weeks, the Signalen product steering group meets to discuss all new feature requests and decide which features will be further developed. If your feature request is being processed, you are welcome to further explain your feature request in the consultation.
 
-Would you like to participate in the product steering group? Or would you like to know more about how decisions are made in the Signalen community, please [contact](/en/contact) us.
+Would you like to participate in the product steering group? Or would you like to know more about how decisions are made in the Signalen community, please [contact](/en/contact/) us.
