@@ -9,7 +9,7 @@ const Payoff = () => (
       <StyledTextContainer>
         <StyledHeading>Signalen</StyledHeading>
         <StyledParagraph>Samenwerken aan leefbaarheid</StyledParagraph>
-        <StyledSubParagraph>Signalen is een opensource proces- en taaksysteem voor overheden, dat meldingen over de openbare ruimte automatisch categoriseert en routeert voor afhandeling door de juiste behandelaar.</StyledSubParagraph>
+        <StyledSubParagraph>Signalen is een open source proces- en taaksysteem voor overheden, dat meldingen over de openbare ruimte automatisch categoriseert en routeert voor afhandeling door de juiste behandelaar.</StyledSubParagraph>
         <StyledSubParagraph><a href="/#over-signalen">Lees hier meer over Signalen</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>

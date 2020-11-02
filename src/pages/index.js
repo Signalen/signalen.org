@@ -43,7 +43,7 @@ const IndexPage = ({ location }) => (
           <Box>
             <p>Signalen is een proces- en taaksysteem, ontwikkeld op initiatief van de gemeente Amsterdam voor het effectiever en klantvriendelijker afhandelen van meldingen over de openbare ruimte.</p>
             <p>Amsterdam krijgt per jaar zo’n 300.000 meldingen over de openbare ruimte te verwerken. Van huisraad bij de vuilnisbak tot en met verlaten sloepjes in de gracht. Ruim 1.400 ambtenaren werken 24/7 met het afhandelen van meldingen in Signalen. Sinds de invoering van Signalen is de klanttevredenheid over de afhandeling van meldingen in Amsterdam met ruim 30 procent gestegen.</p>
-            <p>De Signalen software is Open Source ontwikkeld en kan vrij gebruikt worden door andere overheden en gemeenten.</p>
+            <p>De Signalen software is open source ontwikkeld en kan vrij gebruikt worden door andere overheden en gemeenten.</p>
           </Box>
         </Flex>
       </Section>
