@@ -22,4 +22,4 @@ De code van Signalen is openbaar en kun je niet zozeer spreken over eigenaarscha
 
 In samenwerking met VNG Realisatie, gemeente Amsterdam, ’s-Hertogenbosch, Almere en gefaciliteerd door de Foundation for Public Code, is Signalen toegankelijk gemaakt voor iedere gemeente in Nederland.
 
-Conform de principes van opensource kan iedereen suggesties aandragen voor aanpassing of verbetering van de software. Samen Signalen gebruiken en samen Signalen verbeteren. Op die manier werken we met vereende krachten aan het verbeteren van klanttevredenheid en de leefbaarheid in onze gemeenten.
+Conform de principes van open source kan iedereen suggesties aandragen voor aanpassing of verbetering van de software. Samen Signalen gebruiken en samen Signalen verbeteren. Op die manier werken we met vereende krachten aan het verbeteren van klanttevredenheid en de leefbaarheid in onze gemeenten.
