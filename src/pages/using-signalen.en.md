@@ -22,7 +22,7 @@ Then you can contribute in the following ways:
 
 - Subscribe to the [Signalen community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/)
 - Check outstanding feature requests on the [feature request backlog](https://github.com/orgs/Signalen/projects/2).
-- Make a new [feature request](https://github.com/orgs/Signalen/projects/2#card-48083806) using the [feature request template](https://github.com/orgs/Signalen/projects/2#card-48083806) if your requirement or wish is not listed. Note: Please fill it in completely otherwise your feature request cannot be processed.
+- Make a new [feature request](https://github.com/Signalen/product-steering/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFEATURE-REQUEST%5D) using the [feature request template](https://github.com/Signalen/product-steering/tree/main/.github/ISSUE_TEMPLATE) if your requirement or wish is not listed. Note: Please fill it in completely otherwise your feature request cannot be processed.
 - Announce your feature request on the [Signalen community mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/)
 
 Every two weeks, the Signalen product steering group meets to discuss all new feature requests and decide which features will be further developed. If your feature request is being processed, you are welcome to further explain your feature request in the consultation.
