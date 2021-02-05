@@ -29,6 +29,12 @@ module.exports = {
         ]
       }
     },
+    {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: `signalen.org`,
+        },
+    },
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,

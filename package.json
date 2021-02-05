@@ -10,6 +10,7 @@
     "gatsby-plugin-i18n": "1.0.1",
     "gatsby-plugin-manifest": "2.4.18",
     "gatsby-plugin-offline": "3.2.17",
+    "gatsby-plugin-plausible": "0.0.7",
     "gatsby-plugin-react-helmet": "3.3.10",
     "gatsby-plugin-sharp": "2.6.19",
     "gatsby-plugin-styled-components": "3.3.10",
