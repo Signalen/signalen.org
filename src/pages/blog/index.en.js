@@ -28,17 +28,18 @@ const IndexPage = ({
 
 }) => (
   <Layout>
-    <SEO title="Signalen - Laatste nieuws" />
-
+    <SEO title="Signalen - Latest news" />
+    <Background backgroundColor="#A8D0E6">
       <Container>
         <Navigation as="nav" location={location} />
       </Container>
-  
+    </Background>
+
     <Container>
 
         <Flex>
           <Box>
-          <h2>Laatste nieuws</h2>
+          <h2>Latest news</h2>
           <p>{
             edges.filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
               .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
