@@ -10,26 +10,26 @@ This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure yo
 
 The `master` branch of this repository is automatically deployed using Netlify.
 
-## How to add a blogpost to the website
-You can add a blogpost to the website by adding a Markdown document to the `pages/blog/` folder. The blog section of the website has multilingual support. Copy an existing file and edit it. Use the following filename convention: MM-DD-YYYY-filename.md
+## How to add a news article to the website
+You can add a news article to the website by adding a Markdown document to the `pages/news/` folder. The news section of the website has multilingual support. Copy an existing file and edit it. Use the following filename convention: MM-DD-YYYY-filename.md
 
 Make sure the document includes the following frontmatter
 
 `---
-path: "/blog/02-11-2021-filename/"
+path: "/news/02-11-2021-filename/"
 date: "2021-02-11"
-title: "Welkom op het Signalen blog"
+title: "Welkom op het Signalen nieuws"
 lang: nl
 template: default
 `
 Make sure you set the `path` and `lang` parameters. The lang is used to filter out the specific posts for a particular language.
-If you want to provide an English version of your blogpost make sure you prefix the path with `en` and your filename includes a language local using the following convention: `MM-DD-YYYY-filename.en.md`
+If you want to provide an English version of your news article make sure you prefix the path with `en` and your filename includes a language local using the following convention: `MM-DD-YYYY-filename.en.md`
 
 Example:
 `---
-path: "/en/blog/02-11-2021-filename/"
+path: "/en/news/02-11-2021-filename/"
 date: "2021-02-11"
-title: "Welcome to the Signalen blog"
+title: "Welcome to the Signalen news"
 lang: en
 template: default
 `
