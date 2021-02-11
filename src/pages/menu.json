@@ -7,7 +7,7 @@
     },
     {
       "title": "Nieuws",
-      "link": "/blog",
+      "link": "/news",
       "partiallyActive": false
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "title": "News",
-      "link": "/en/blog",
+      "link": "/en/news",
       "partiallyActive": false
     },
     {
