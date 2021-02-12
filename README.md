@@ -11,28 +11,33 @@ This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure yo
 The `master` branch of this repository is automatically deployed using Netlify.
 
 ## How to add a news article to the website
-You can add a news article to the website by adding a Markdown document to the `pages/news/` folder. The news section of the website has multilingual support. Copy an existing file and edit it. Use the following filename convention: MM-DD-YYYY-filename.md
+You can add a news article to the website by adding a Markdown document to the `pages/news/` folder. The news section of the website has multilingual support. Copy an existing file and edit it. Use the following filename convention: `YYYY-MM-DD-filename.md`
 
-Make sure the document includes the following frontmatter
+Make sure the document includes the following frontmatter:
 
-`---
-path: "/news/02-11-2021-filename/"
+```
+---
+path: "/news/2021-02-11-filename/"
 date: "2021-02-11"
 title: "Welkom op het Signalen nieuws"
 lang: nl
 template: default
-`
+```
+
 Make sure you set the `path` and `lang` parameters. The lang is used to filter out the specific posts for a particular language.
-If you want to provide an English version of your news article make sure you prefix the path with `en` and your filename includes a language local using the following convention: `MM-DD-YYYY-filename.en.md`
+If you want to provide an English version of your news article make sure you prefix the path with `en` and your filename includes a language local using the following convention: `YYYY-MM-DD-filename.en.md`
 
 Example:
-`---
-path: "/en/news/02-11-2021-filename/"
+
+```
+---
+path: "/en/news/2021-02-11-filename/"
 date: "2021-02-11"
 title: "Welcome to the Signalen news"
 lang: en
 template: default
-`
+```
+For more information on how the news section is implemented refer to (https://www.gatsbyjs.com/blog/2017-07-19-creating-a-blog-with-gatsby/)
 For more information on how multilingual support is implemented refer to the section 'Localization'
 
 ## Localization
@@ -42,7 +47,8 @@ https://www.gatsbyjs.com/blog/2020-02-19-how-to-build-multilingual-sites-with-ga
 
 You can start your won translation by prefixing the extensions of files which serve up pages by using the ISO country codes. Files which do not include such a prefix will be defaulted to the language as configured in the `gatbsy-config.js` file.
 
-```example:
+```
+example:
 index.en.js serves the English equivalent of that page.
 ```
 The plugin makes all the language specific files available under the site-root/<language code> so in the case of English site-root/en/.
