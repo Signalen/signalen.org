@@ -1,13 +1,13 @@
 {
   "nl": [
     {
-      "title": "Over Signalen",
-      "link": "/#over-signalen",
+      "title": "Signalen gebruiken",
+      "link": "/using-signalen",
       "partiallyActive": false
     },
     {
-      "title": "Signalen gebruiken",
-      "link": "/using-signalen",
+      "title": "Nieuws",
+      "link": "/news",
       "partiallyActive": false
     },
     {
@@ -28,13 +28,13 @@
   ],
   "en": [
     {
-      "title": "About Signalen",
-      "link": "/en/#about-signalen",
+      "title": "Using Signalen",
+      "link": "/en/using-signalen",
       "partiallyActive": false
     },
     {
-      "title": "Using Signalen",
-      "link": "/en/using-signalen",
+      "title": "News",
+      "link": "/en/news",
       "partiallyActive": false
     },
     {
