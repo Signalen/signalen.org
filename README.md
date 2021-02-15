@@ -11,9 +11,23 @@ This site is built using [Gatsby](https://www.gatsbyjs.org/). First make sure yo
 The `master` branch of this repository is automatically deployed using Netlify.
 
 ## How to add a news article to the website
-You can add a news article to the website by adding a Markdown document to the `pages/news/` folder. The news section of the website has multilingual support. Copy an existing file and edit it. Use the following filename convention: `YYYY-MM-DD-filename.md`
+You can add a news article to the website by adding a Markdown document to the `pages/news/` folder. The news section of the website has multilingual support. Copy an existing file and edit it. Use the following filename convention: `YYYY-MM-DD-filename.en.md`
 
 Make sure the document includes the following frontmatter:
+
+```
+---
+path: "/en/news/2021-02-11-filename/"
+date: "2021-02-11"
+title: "Welcome to the Signalen news"
+lang: en
+template: default
+```
+
+Make sure you set the `path` and `lang` parameters. The lang is used to filter out the specific posts for a particular language.
+If you want to provide a Dutch version of your news article make sure you prefix the path with `nl` and your filename includes a language local using the following convention: `YYYY-MM-DD-filename.md` (NOTE: that for the default language set in Gatsby config you don't need to include language code in the filename)
+
+Example:
 
 ```
 ---
@@ -24,21 +38,7 @@ lang: nl
 template: default
 ```
 
-Make sure you set the `path` and `lang` parameters. The lang is used to filter out the specific posts for a particular language.
-If you want to provide an English version of your news article make sure you prefix the path with `en` and your filename includes a language local using the following convention: `YYYY-MM-DD-filename.en.md`
-
-Example:
-
-```
----
-path: "/en/news/2021-02-11-filename/"
-date: "2021-02-11"
-title: "Welcome to the Signalen news"
-lang: en
-template: default
-```
-For more information on how the news section is implemented refer to (https://www.gatsbyjs.com/blog/2017-07-19-creating-a-blog-with-gatsby/)
-For more information on how multilingual support is implemented refer to the section 'Localization'
+For more information on how the news section is implemented refer to (https://www.gatsbyjs.com/blog/2017-07-19-creating-a-blog-with-gatsby/). For more information on how multilingual support is implemented refer to the section 'Localization'
 
 ## Localization
 This site has basic multilingual support using the gatsby-plugin-i18n.
