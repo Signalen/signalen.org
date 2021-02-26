@@ -10,7 +10,7 @@ const Payoff = () => (
         <StyledHeading>Uitnodiging: Signalen Community meetup</StyledHeading>
         <StyledParagraph>Online editie. 22 maart 2021</StyledParagraph>
         <StyledSubParagraph>Deze editie is speciaal voor gemeenten die overwegen om Signalen te gaan gebruiken voor het ontvangen en afhandelen van hun meldingen. Daarnaast verkennen we tijdens de meetup samen met de markt hoe we zorgen voor een duurzaam ecosysteem rondom Signalen.</StyledSubParagraph>
-        <StyledSubParagraph><a href="/#news/2021-02-24-uitnodiging/">Meld je hier aan!</a></StyledSubParagraph>
+        <StyledSubParagraph><a href="https://signalen.org/news/2021-02-24-uitnodiging/">Meld je hier aan!</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
