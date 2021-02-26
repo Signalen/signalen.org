@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyledContainer, StyledSubParagraph, StyledTextContainer, StyledHeading, StyledParagraph, StyledIntro, StyledImage } from './index.styles.js'
 import ResponsiveImage from '../ResponsiveImage'
-import missedChances from '../../images/missed-chances.svg'
+import missedChances from '../../images/city.png'
 
 const Payoff = () => (
   <StyledContainer>
@@ -14,7 +14,7 @@ const Payoff = () => (
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
-      <ResponsiveImage src={missedChances} alt="Illustration of man with headphone and woman with mobile phone walking down the street" />
+      <ResponsiveImage src={city} alt="City with construction workers, people walking by and a hadicapped man" />
     </StyledImage>
   </StyledContainer>
 )
