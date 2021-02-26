@@ -7,10 +7,10 @@ const Payoff = () => (
   <StyledContainer>
     <StyledIntro>
       <StyledTextContainer>
-        <StyledHeading>Signalen</StyledHeading>
-        <StyledParagraph>Working together for quality of life</StyledParagraph>
-        <StyledSubParagraph>Signalen is an open source process and task system for governments, which automatically categorizes and routes reports about public space for processing by the appropriate handler.</StyledSubParagraph>
-        <StyledSubParagraph><a href="/en/#about-signalen">More information on Signalen</a></StyledSubParagraph>
+        <StyledHeading>Save the date: Signalen Community Meetup</StyledHeading>
+        <StyledParagraph>Online edition. March, 22. </StyledParagraph>
+        <StyledSubParagraph>This edition is specifically for municipalities that are considering using Signalen to receive and handle their nuisance reports. In addition, during the meetup we will explore with the market how to ensure a sustainable ecosystem around Signalen.</StyledSubParagraph>
+        <StyledSubParagraph><a href="/en/news/2021-02-26-save-the-date-community-meeting">More information on the meetup</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
