@@ -6,6 +6,7 @@ import Navigation from '../components/Navigation'
 import Layout from '../components/Layout'
 import Footer from '../components/Footer'
 import Container from '../components/Container'
+import Markdown from '../components/Markdown'
 
 export default function Template({ data, location }) {
   const { markdownRemark: post } = data
@@ -20,7 +21,7 @@ export default function Template({ data, location }) {
       </nav>
       <main>
         <Container>
-          <div dangerouslySetInnerHTML={{ __html: post.html }} />
+          <Markdown dangerouslySetInnerHTML={{ __html: post.html }} />
         </Container>
       </main>
       <Footer location={location} />

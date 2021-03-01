@@ -5,6 +5,10 @@ const Container = styled.div`
   margin: 0 auto;
   padding: 0 ${(p) => p.theme.tokens.spacing05};
   max-width: ${(p) => p.theme.tokens.containerWidth};
+
+  img {
+    max-width: 100%;
+  }
 `
 
 export default Container
