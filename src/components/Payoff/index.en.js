@@ -14,7 +14,7 @@ const Payoff = () => (
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
-      <ResponsiveImage src={city} alt="City with construction workers, people walking by and a hadicapped man" />
+      <ResponsiveImage src={missedChances} alt="City with construction workers, people walking by and a hadicapped man" />
     </StyledImage>
   </StyledContainer>
 )
