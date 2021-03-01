@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyledContainer, StyledSubParagraph, StyledTextContainer, StyledHeading, StyledParagraph, StyledIntro, StyledImage } from './index.styles.js'
 import ResponsiveImage from '../ResponsiveImage'
-import missedChances from '../../images/city.png'
+import missedChances from '../../images/missed-chances.svg'
 
 const Payoff = () => (
   <StyledContainer>
