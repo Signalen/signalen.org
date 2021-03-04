@@ -6,11 +6,9 @@ lang: en
 template: default
 ---
 
-## Invitation: Signalen Community Meetup, March 22
+# Invitation: Signalen Community Meetup, March 22
 
 ![](https://i.imgur.com/i8WDdQb.png)
-
-# Signalen Community meetup
 
 Signalen is the open source initiative of Dutch municipalities to receive and manage notifications and nuisance reports. Now, Signalen is also being reused at other municipalities.
 
