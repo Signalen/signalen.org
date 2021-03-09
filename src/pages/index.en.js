@@ -15,6 +15,7 @@ import Span from '../components/Span'
 import Background from '../components/Background'
 import Logos from '../components/Logos'
 import Timeline from '../components/Timeline'
+import Alert from '../components/Alert'
 
 import meldingMakenOntvangen from '../images/melding-maken-ontvangen.svg'
 import categoriserenRouteren from '../images/categoriseren-routeren.svg'
@@ -28,6 +29,10 @@ const IndexPage = ({ location }) => (
       <Container>
         <Navigation as="nav" location={location} />
         <Section>
+          <Alert variant="info" title="Title">
+            On March 22nd we organize the second Signalen community meet-up. More information <a href="/news/2021-03-03-invitation-community-meetup/">check the invitation.</a>.
+          </Alert>
+
           <Payoff />
         </Section>
       </Container>
