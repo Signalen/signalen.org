@@ -15,6 +15,7 @@ import Span from '../components/Span'
 import Background from '../components/Background'
 import Logos from '../components/Logos'
 import Timeline from '../components/Timeline'
+import Alert from '../components/Alert'
 
 import meldingMakenOntvangen from '../images/melding-maken-ontvangen.svg'
 import categoriserenRouteren from '../images/categoriseren-routeren.svg'
