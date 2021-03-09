@@ -28,6 +28,10 @@ const IndexPage = ({ location }) => (
       <Container>
         <Navigation as="nav" location={location} />
         <Section>
+          <Alert variant="info" title="Title">
+            Op 22 maart organiseren we de tweede Signalen Community meeting. Bekijk voor meer informatie <a href="/news/2021-02-24-uitnodiging/">de aankondiging</a>.
+          </Alert>
+
           <Payoff />
         </Section>
       </Container>
