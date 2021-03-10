@@ -1,7 +1,7 @@
 ---
 path: "/en/news/2021-03-13-invitation-community-meetup/"
 date: "2021-03-03"
-title: "Invitation: Signalen Community Meetup, March 22"
+title: "Invitation Signalen Community Meetup March 22"
 lang: en
 template: default
 ---
