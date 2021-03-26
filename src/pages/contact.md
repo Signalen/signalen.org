@@ -20,9 +20,9 @@ Innovatie manager<br />
 
 ### Vertegenwoordigers van de gemeentelijke deelnemers
 
-Erik Veerman<br />
-Projectleider gemeente ‘s-Hertogenbosch<br />
-[e.veerman@s-hertogenbosch.nl](mailto:e.veerman@s-hertogenbosch.nl)
+Amy van Someren<br />
+Functioneel beheerder │ Afdeling Sector Informatie Management (SIM) SO/SB │ Gemeente ’s-Hertogenbosch<br />
+[a.vansomeren@s-hertogenbosch.nl](mailto:a.vansomeren@s-hertogenbosch.nl)
 
 Gerry de Koning<br />
 Informatie manager fysiek domein gemeente Almere<br />
