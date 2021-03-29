@@ -32,5 +32,3 @@ In tweede groep hebben we een verkenning gedaan van de de samenwerking tussen ma
 - [Slides Track 1](/uploads/slides-track-1.pdf)
 - [Slides Track 3](/uploads/slides-track-3.pdf)
 - [Miro board track 3](/uploads/miro-samenwerken-in-signalen.pdf)
-
-![](https://i.imgur.com/X3chJeM.png)
