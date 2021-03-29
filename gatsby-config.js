@@ -23,12 +23,18 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-check-links`,
           `gatsby-remark-prismjs`,
           `gatsby-remark-images`,
         ]
       }
     },
+    {
+      resolve: `gatsby-remark-check-links`,
+      options: {
+        ignore: `/uploads/`,
+        },
+    },
+
     {
       resolve: `gatsby-plugin-plausible`,
       options: {
