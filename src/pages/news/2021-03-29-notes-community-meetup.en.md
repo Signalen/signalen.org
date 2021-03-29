@@ -1,6 +1,6 @@
 ---
 path: "/en/news/2021-03-29-notes-community-meetup/"
-date: "2021-03-03"
+date: "2021-03-29"
 title: "Notes from Community Meetup"
 lang: en
 template: default
