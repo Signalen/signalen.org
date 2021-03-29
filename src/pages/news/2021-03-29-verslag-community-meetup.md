@@ -22,13 +22,13 @@ In tweede groep hebben we een verkenning gedaan van de de samenwerking tussen ma
 ## Volg de ontwikkelingen van Signalen!
 
 - Geef je [hier](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) op voor onze nieuwsbrief en ontvang alle relevante informatie en uitnodigingen voor  de community meetup of praat mee in [het Signalen Slack kanaal](https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q) waar je ook al je vragen kunt  stellen.
-- Bekijk [hier meer details](https://signalen.org/) van de afgelopen meetup, zoals een uitgebreid verslag over de  samenwerking tussen markt en overheid, de presentaties en toegang tot de algemene demo  omgeving van Signalen.
+- Bekijk hieronder meer details van de afgelopen meetup, zoals een [uitgebreid verslag over de  samenwerking tussen markt en overheid](https://hackmd.io/@felixfaassen/B1RuQXDV_), de presentaties en toegang tot de [algemene demo omgeving van Signalen](https://signalen.demoground.nl/incident/beschrijf).
 
 ## Meer info en presentaties van de Community Meetup:
 
 - [Dit verslag in PDF formaat](/uploads/signalen-meetup-verslag.pdf)
-- [Signalen community dag samenvatting track 3](https://hackmd.io/@felixfaassen/B1RuQXDV_)
 - [Slides opening en afsluiting](/uploads/slides-opening-afsluiting.pdf)
 - [Slides Track 1](/uploads/slides-track-1.pdf)
+- [Verslag van track 3](https://hackmd.io/@felixfaassen/B1RuQXDV_)
 - [Slides Track 3](/uploads/slides-track-3.pdf)
 - [Miro board track 3](/uploads/miro-samenwerken-in-signalen.pdf)
