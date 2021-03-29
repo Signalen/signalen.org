@@ -6,6 +6,8 @@ lang: en
 template: default
 ---
 
+![Notes from Signalen Community Meetup](signalen.org/src/images/banner-notes-community-meetup.jpeg)
+
 # Notes from Community Meetup
 
 Signalen is the open source initiative of Dutch municipalities to receive and manage notifications and nuisance reports. Last Monday, March 22nd we held our first community meetup from 2021. With over 54 participants from municipalities and market parties, we took new steps to bring Signalen to more municipalities in the Netherlands.
