@@ -6,6 +6,8 @@ lang: nl
 template: default
 ---
 
+![Community Meetup Verslag](signalen.org/src/images/Verslag-banner.png)
+
 # Verslag: Signalen Community Meetup
 
 Signalen is het open source initiatief van Nederlandse gemeenten voor het ontvangen en afhandelen van  Meldingen (OR) en maandag 22 maart jl. hadden we de eerste community meetup van 2021. Met ruim 54  deelnemers van gemeenten en marktpartijen hebben we nieuwe stappen gezet om Signalen naar meer gemeenten in Nederland te kunnen brengen.
