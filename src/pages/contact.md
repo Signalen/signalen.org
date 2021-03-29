@@ -21,9 +21,7 @@ Innovatie manager<br />
 ### Vertegenwoordigers van de gemeentelijke deelnemers
 
 Amy van Someren<br />
-Functioneel beheerder<br />
-Afdeling Sector Informatie Management (SIM) SO/SB<br />
-Gemeente ’s-Hertogenbosch<br />
+Functioneel beheerder │ Afdeling Sector Informatie Management (SIM) SO/SB │ Gemeente ’s-Hertogenbosch<br />
 [a.vansomeren@s-hertogenbosch.nl](mailto:a.vansomeren@s-hertogenbosch.nl)
 
 Gerry de Koning<br />

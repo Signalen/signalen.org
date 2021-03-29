@@ -20,9 +20,9 @@ Innovation manager<br />
 
 ### Representatives from participating municipalities
 
-Erik Veerman<br />
-Project lead municipality of ‘s-Hertogenbosch<br />
-[e.veerman@s-hertogenbosch.nl](mailto:e.veerman@s-hertogenbosch.nl)
+Amy van Someren<br />
+Manager │ Information Management Department (SIM) SO/SB │ Municipality of ’s-Hertogenbosch<br />
+[a.vansomeren@s-hertogenbosch.nl](mailto:a.vansomeren@s-hertogenbosch.nl)
 
 Gerry de Koning<br />
 Information manager physical domain municipality of Almere<br />
