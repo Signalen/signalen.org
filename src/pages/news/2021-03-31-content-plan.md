@@ -1,6 +1,6 @@
 ---
-path: "/en/news/2021-03-31-content-plan/"
-date: "2021-03-29"
+path: "news/2021-03-31-content-plan/"
+date: "2021-03-31"
 title: "Suggestion for a content plan"
 lang: nl
 template: default
