@@ -1,21 +1,21 @@
 ---
-path: "news/2021-03-31-content-plan/"
+path: "news/2021-03-31-inhoudsplan/"
 date: "2021-03-31"
-title: "Suggestion for a content plan"
+title: "Suggestie voor een inhoudsplan voor Signalen.org"
 lang: nl
 template: default
 ---
 
-# Suggestion for a content plan for Signalen.org
+# Suggestie voor een inhoudsplan voor Signalen.org
 
-## February 2021
+## Februari 2021
 
 ### Week 2
 
 - [x] (EN) Welcome to Signalen news section (Feb 11) - [LINK](https://signalen.org/en/news/2021-02-11-welcome/)
 - [x] (NL) Welcome to Signalen niews section (Feb 11) - [LINK](https://signalen.org/news/2021-02-11-welkom/)
 
-## March 2021
+## Maart 2021
 
 ### Week 1
 
@@ -35,7 +35,7 @@ template: default
  - [ ]  (EN) Den Bosch's replication - Work in progress
  - [ ]  (NL) Den Bosch's replication - Work in progress
  
- ## June 2021
+ ## Juni 2021
  
  ### Week 2
  
