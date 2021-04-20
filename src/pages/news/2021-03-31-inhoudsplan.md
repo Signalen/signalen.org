@@ -1,5 +1,5 @@
 ---
-path: "news/2021-03-31-inhoudsplan/"
+path: "/news/2021-03-31-inhoudsplan/"
 date: "2021-03-31"
 title: "Suggestie voor een inhoudsplan voor Signalen.org"
 lang: nl
