@@ -32,6 +32,20 @@ René van Sprang<br />
 Category manager municipality of Amsterdam<br />
 [r.van.sprang@amsterdam.nl](mailto:r.van.sprang@amsterdam.nl)
 
-### Get in touch with the Signalen community
+## Get in touch with the Signalen community
+
+### Signalen mailinglist
 
 Would you like to discuss and participate in the further development of Signalen? Subscribe to the [Signalen mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/).
+
+### Monthly Signalen Community Update
+
+Every second Thursday of the month between 10:00am -10:30am (CET) there is a community update call. In this call the community updates each other on the latest developments around Signalen. The call is open to everyone and you are welcome to join this call using the Jitsi: https://meet.jit.si/Signalensprintreview
+
+### Monthly Technical Steering call
+
+Every month contributing developer members of our community conduct a technical steering meeting to discuss technical issues or new technical developments. You are welcome to join this meeting by sending a request to signalen-discuss@lists.publiccode.net. Make sure you first [join the Signalern mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) prior to sending a message.
+
+### Monthly Product Steering call
+
+Every month contributing members of our community conduct a product steering meeting to discuss new features or user issues.  You are welcome to join this meeting by sending a request to signalen-discuss@lists.publiccode.net. Make sure you first [join the Signalen mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) prior to sending a message.
