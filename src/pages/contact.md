@@ -44,7 +44,7 @@ Elke tweede donderdag van de maand van 10:00 - 10:30 is er een community update 
 
 ### Maandelijkse Technical Steering call
 
-Elke maand houden ontwikkelaars van onze community een technische stuurbijeenkomst om technische problemen of nieuwe technische ontwikkelingen te bespreken. Je bent van harte welkom om deze bijeenkomst bij te wonen door een verzoek te sturen naar signalen-discuss@lists.publiccode.net. Zorg ervoor dat je eerst [lid wordt van de Signalern mailinglist] (https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) voordat je een bericht verstuurt.
+Elke maand houden ontwikkelaars van onze community een technische stuurbijeenkomst om technische problemen of nieuwe technische ontwikkelingen te bespreken. Je bent van harte welkom om deze bijeenkomst bij te wonen door een verzoek te sturen naar signalen-discuss@lists.publiccode.net. Zorg ervoor dat je eerst [lid wordt van de Signalen mailinglist] (https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) voordat je een bericht verstuurt.
 
 
 ### Maandelijkse Product Steering call
