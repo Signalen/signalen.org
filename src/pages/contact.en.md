@@ -44,7 +44,7 @@ Every second Thursday of the month between 10:00am -10:30am (CET) there is a com
 
 ### Monthly Technical Steering call
 
-Every month contributing developer members of our community conduct a technical steering meeting to discuss technical issues or new technical developments. You are welcome to join this meeting by sending a request to signalen-discuss@lists.publiccode.net. Make sure you first [join the Signalern mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) prior to sending a message.
+Every month contributing developer members of our community conduct a technical steering meeting to discuss technical issues or new technical developments. You are welcome to join this meeting by sending a request to signalen-discuss@lists.publiccode.net. Make sure you first [join the Signalen mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) prior to sending a message.
 
 ### Monthly Product Steering call
 
