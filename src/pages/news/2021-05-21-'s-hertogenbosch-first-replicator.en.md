@@ -6,7 +6,7 @@ lang: en
 template: default
 ---
 
-## Interview: Early impressions of 's-Hertogenbosch as first replicator of Signalen
+# Interview: Early impressions of 's-Hertogenbosch as first replicator of Signalen
 
 [Amy van Someren](https://github.com/someren), Functional Manager at the Dutch municipality of 's-Hertogenbosch has recently been invited to the podcast ['Let's talk about Public Code'](https://podcast.publiccode.net/) from the [Foundation for Public Code](https://publiccode.net). The civil servant, shared her experiences and challenges while working with Signalen and in the open on a daily basis.
 
