@@ -1,5 +1,5 @@
 ---
-path: "/en/news/2021-05-21-interview-'s-hertogenbosch-first-replicator/".
+path: "/en/news/2021-05-21-interview-'s-hertogenbosch-first-replicator/"
 date: "2021-05-21"
 title: "Interview: Early impressions of 's-Hertogenbosch as first replicator of Signalen"
 lang: en
