@@ -50,3 +50,6 @@ Elke maand houden ontwikkelaars van onze community een technische stuurbijeenkom
 ### Maandelijkse Product Steering call
 
 Elke maand houden product owners van onze community een productstuurvergadering om nieuwe functies of gebruikersproblemen te bespreken. U bent van harte welkom om deze bijeenkomst bij te wonen door een verzoek te sturen naar signalen-discuss@lists.publiccode.net. Zorg ervoor dat je eerst [lid wordt van de Signalen mailinglist] (https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) voordat je een bericht verstuurt.
+
+### Gedragscode
+We hebben een [gedragscode](../CODE_OF_CONDUCT.md) waarvan we verwachten dat u deze volgt.

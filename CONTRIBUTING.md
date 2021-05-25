@@ -4,6 +4,8 @@ We – the maintainers of this project – value your input, enjoy feedback and 
 
 We love issues and pull requests from everyone.
 
+When you are contributing, we expect you to follow our [code of conduct](CODE_OF_CONDUCT.md).
+
 ## Problems, suggestions and questions
 
 You don't need to change any of our code or documentation to be a contributor. Many contributors add to our software by reporting problems, suggesting changes and asking simple and difficult questions. To do this, you can create a [GitHub Issue](https://help.github.com/articles/creating-an-issue/) for this project.
