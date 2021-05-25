@@ -1,5 +1,5 @@
 ---
-path: "/news/2021-05-21-OS2-bevatte-signalen/".
+path: "/news/2021-05-21-OS2-community-blog-post/".
 date: "2021-05-21"
 title: "Blogpost op OS2 bevatte Signalen"
 lang: nl
