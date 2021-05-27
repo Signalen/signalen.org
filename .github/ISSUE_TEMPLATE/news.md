@@ -1,6 +1,6 @@
 ---
 name: News
-about: 'Use this template for adding issuses for news '
+about: 'Use this template for adding issuses for news'
 title: ''
 labels: communications
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **What is the news about?**
-Describe what you want to communictate.
+Describe what you want to communicate.
 
 **When would you prefer it to be published?
 
