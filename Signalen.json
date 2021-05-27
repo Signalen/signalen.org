@@ -1,0 +1,65 @@
+{
+  "name": "Signalen",
+
+  "entry_type": "software",
+
+  "description": "process and task system for governments, which automatically categorizes and routes reports about public space for processing by the appropriate handler",
+
+  "official_url": "https://signalen.org",
+
+  "repository": "https://github.com/Signalen/",
+
+  "logo_url": "https://github.com/Signalen/signalen.org/raw/master/src/images/logo.png",
+
+  "language": [ "NL" ],
+
+  "origin_country": "NL",
+
+  "sector": [ "localgov" ],
+
+  "category": [
+    "workflow management",
+    "task management"
+  ],
+
+  "licence": [ "MPLv2" ],
+
+  "developers": [ {
+    "developer_name": "Gemeente Amsterdam",
+    "developer_logo_url": "https://amsterdam.nl/publish/pages/963333/gasd_1_rgb_1.png",
+    "developer_url": "https://amsterdam.nl",
+    "developer_category": "Public"
+  },
+  {
+    "developer_name": "VNG",
+    "developer_logo_url": "https://vng.nl/themes/custom/vng/logo.svg",
+    "developer_url": "https://vng.nl",
+    "developer_category": "Public association"
+  }  ],
+  "maintainers": [ {
+    "maintainer_name": "Foundation for Public Code",
+    "maintainer_url": "https://publiccode.net",
+    "maintainer_logo_url": "https://brand.publiccode.net/logo/mark-and-name-over-one-line-1815w1042h.png",
+    "maintainer_repository": "https://github.org/signalen"
+  } ],
+  "users": [ {
+    "user_name": "Gemeente Amsterdam",
+    "user_location": "Amsterdam, NL",
+    "user_logo_url": "https://amsterdam.nl/publish/pages/963333/gasd_1_rgb_1.png",
+    "user_url": "https://meldingen.amsterdam.nl/",
+    "user_geolocation": {
+      "lat": 52.366667,
+      "long": 4.883333
+    }
+  },
+  {
+    "user_name": "Gemeente 's-Hertogenbosch",
+    "user_location": "'s-Hertogenbosch, NL",
+    "user_logo_url": "https://www.s-hertogenbosch.nl/typo3conf/ext/website_shertogenbosch/Resources/Public/Images/logo.svg",
+    "user_url": "meldingen.s-hertogenbosch.nl",
+    "user_geolocation": {
+      "lat": 51.683333,
+      "long": 5.3
+    }
+  } ]
+}
