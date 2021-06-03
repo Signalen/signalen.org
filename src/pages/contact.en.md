@@ -40,15 +40,15 @@ Would you like to discuss and participate in the further development of Signalen
 
 ### Monthly Signalen Community Update
 
-Every second Thursday of the month between 10:00am -10:30am (CET) there is a community update call. In this call the community updates each other on the latest developments around Signalen. The call is open to everyone and you are welcome to join this call using the Jitsi: https://meet.jit.si/Signalensprintreview
+Every second Thursday of the month between 10:00–10:30 (CEST) there is a community update call. In this call the community updates each other on the latest developments around Signalen. The call is open to everyone and you are welcome to join this call using the Jitsi: https://meet.jit.si/Signalensprintreview
 
 ### Monthly Technical Steering call
 
-Every month contributing developer members of our community conduct a technical steering meeting to discuss technical issues or new technical developments. You are welcome to join this meeting by sending a request to signalen-discuss@lists.publiccode.net. Make sure you first [join the Signalen mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) prior to sending a message.
+Every Thursday, 13:00–14:00 (CEST), contributing developer members of our community conduct a technical steering meeting to discuss technical issues or new technical developments. The call is open to everyone and you are welcome to join this call using the Jitsi: https://meet.jit.si/SignalenDevAmsVNG
 
 ### Monthly Product Steering call
 
-Every month contributing members of our community conduct a product steering meeting to discuss new features or user issues.  You are welcome to join this meeting by sending a request to signalen-discuss@lists.publiccode.net. Make sure you first [join the Signalen mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) prior to sending a message.
+Every third Thursday of the month, 11:00–12:00 (CEST), contributing members of our community conduct a product steering meeting to discuss new features or user issues. You are welcome to join this meeting by sending a request to signalen-discuss@lists.publiccode.net. Make sure you first [join the Signalen mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) prior to sending a message.
 
 ### Code of Conduct
 
