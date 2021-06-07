@@ -49,3 +49,7 @@ Every Thursday, 13:00–14:00 (CEST), contributing developer members of our comm
 ### Monthly Product Steering call
 
 Every third Thursday of the month, 11:00–12:00 (CEST), contributing members of our community conduct a product steering meeting to discuss new features or user issues. You are welcome to join this meeting by sending a request to signalen-discuss@lists.publiccode.net. Make sure you first [join the Signalen mailinglist](https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) prior to sending a message.
+
+### Code of Conduct
+
+We have a [code of conduct](../CODE_OF_CONDUCT.md) that we expect you to follow.

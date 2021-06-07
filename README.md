@@ -80,6 +80,9 @@ In the current configuration only the Payoff component and the road map page and
 More information about the configuration and implementation can be found here:
 https://www.gatsbyjs.com/blog/2020-02-19-how-to-build-multilingual-sites-with-gatsby/
 
+## Code of Conduct
+
+We have a [code of conduct](CODE_OF_CONDUCT.md) that we expect you to follow.
 
 ## License
 
