@@ -6,7 +6,7 @@ lang: en
 template: default
 ---
 
-# Signalen by its first replicator. Interview with Erik Veerman from 's-Hertogenbosch
+# Interview with Erik Veerman from 's-Hertogenbosch, 1st replicator of Signalen
 A few weeks ago we shared the success story of 's-Hertogenbosch, the first municipality that has replicated Signalen.
 
 Today we publish in this news section an interview with Erik Veerman, project leader in the municipality of said Dutch town. 's-Hertogenbosch thus became the first organism to replicate Signalen adapted to its needs. 
