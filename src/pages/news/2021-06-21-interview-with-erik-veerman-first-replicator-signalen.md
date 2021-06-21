@@ -1,5 +1,5 @@
 ---
-path: "/news/2021-06-21-interview-with-erik-veerman-first-replicator-signalen/". 
+path: "/news/2021-06-21-interview-with-erik-veerman-first-replicator-signalen/"
 date: "2021-06-21"
 title: "Interview met Erik Veerman uit 's-Hertogenbosch, de eerste replicator van Signalen"
 lang: nl
