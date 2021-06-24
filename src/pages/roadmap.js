@@ -43,7 +43,7 @@ const RoadmapPage = ({ location }) => (
     <Container>
       <Timeline>
 
-      <Timeline.Container align="right">
+      <Timeline.Container align="left">
         <Timeline.Content>
           <Span fontSize="0.9rem">Juli 2021</Span>
           <Heading as="h3" fontSize="1.5rem">Roadmap 2e helft 2021 van Signalen</Heading>
@@ -51,7 +51,7 @@ const RoadmapPage = ({ location }) => (
         </Timeline.Content>
       </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Mei 2021</Span>
             <Heading as="h3" fontSize="1.5rem">Signalen in 's-Hertogenbosch</Heading>
@@ -60,7 +60,7 @@ const RoadmapPage = ({ location }) => (
         </Timeline.Container>
 
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">2021</Span>
             <Heading as="h3" fontSize="1.5rem">Opschalen</Heading>
@@ -69,7 +69,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q4 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Klaar voor productie</Heading>
@@ -77,7 +77,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Sept 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Integrale roadmap </Heading>
@@ -85,7 +85,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Sept 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Signalen as a Service</Heading>
@@ -94,7 +94,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Aug 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Eerste communitydag</Heading>
@@ -103,7 +103,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">April 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Kopgroep van start</Heading>
@@ -113,7 +113,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">2 maart 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Kopgroep Signalen</Heading>
@@ -122,7 +122,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">2020</Span>
             <Heading as="h3" fontSize="1.5rem">Start initiatief</Heading>
@@ -131,7 +131,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
             <Timeline.Content>
               <Span fontSize="0.9rem">2018</Span>
               <Heading as="h3" fontSize="1.5rem">Start ontwikkeling SIA</Heading>

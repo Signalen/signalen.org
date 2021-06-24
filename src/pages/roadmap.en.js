@@ -43,7 +43,15 @@ const RoadmapPage = ({ location }) => (
     <Container>
       <Timeline>
 
-        <Timeline.Container align="left">
+      <Timeline.Container align="left">
+        <Timeline.Content>
+          <Span fontSize="0.9rem">Juli 2021</Span>
+          <Heading as="h3" fontSize="1.5rem">Roadmap 2nd half 2021</Heading>
+          <p>The roadmap of Signalen has been defined by the product steering group. The community is now looking how to finance these developments. Read more about the <a href="/en/news/2021-06-24-roadmap/">roadmap 2021</a></p>
+        </Timeline.Content>
+      </Timeline.Container>
+
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">May 2021</Span>
             <Heading as="h3" fontSize="1.5rem">Signalen is used in production at the municipality of 's-Hertogenbosch</Heading>
@@ -51,7 +59,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">2021</Span>
             <Heading as="h3" fontSize="1.5rem">Scaling up</Heading>
@@ -60,7 +68,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Q4 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Ready for production</Heading>
@@ -68,7 +76,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Sept 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Integral roadmap</Heading>
@@ -76,7 +84,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">Sept 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Signalen as a Service</Heading>
@@ -85,7 +93,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">Aug 2020</Span>
             <Heading as="h3" fontSize="1.5rem">First community day</Heading>
@@ -94,7 +102,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">April 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Core group starts</Heading>
@@ -104,7 +112,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
           <Timeline.Content>
             <Span fontSize="0.9rem">March 2nd, 2020</Span>
             <Heading as="h3" fontSize="1.5rem">Signalen core group</Heading>
@@ -113,7 +121,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="left">
+        <Timeline.Container align="right">
           <Timeline.Content>
             <Span fontSize="0.9rem">2020</Span>
             <Heading as="h3" fontSize="1.5rem">Start initiative</Heading>
@@ -122,7 +130,7 @@ const RoadmapPage = ({ location }) => (
           </Timeline.Content>
         </Timeline.Container>
 
-        <Timeline.Container align="right">
+        <Timeline.Container align="left">
             <Timeline.Content>
               <Span fontSize="0.9rem">2018</Span>
               <Heading as="h3" fontSize="1.5rem">Start of development of SIA</Heading>
