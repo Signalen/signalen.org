@@ -47,7 +47,7 @@ const RoadmapPage = ({ location }) => (
         <Timeline.Content>
           <Span fontSize="0.9rem">Juli 2021</Span>
           <Heading as="h3" fontSize="1.5rem">Roadmap 2e helft 2021 van Signalen</Heading>
-          <p>De roadmap van Signalen is vastgesteld door de product steering groep. Er wordt nu binnen community gekeken naar budget om deze ontwikkelingen te financieren. Lees hier meer over <a href="/news/2021-06-24-roadmap/">de roadmap 2021</a></p>
+          <p>De roadmap van Signalen is vastgesteld door de product steering groep. Er wordt nu binnen community gekeken naar budget om deze ontwikkelingen te financieren. Lees hier meer over <a href="/news/2021-06-24-roadmap/">de roadmap 2021</a>.</p>
         </Timeline.Content>
       </Timeline.Container>
 
