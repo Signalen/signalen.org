@@ -55,7 +55,7 @@ const RoadmapPage = ({ location }) => (
           <Timeline.Content>
             <Span fontSize="0.9rem">March 2021</Span>
             <Heading as="h3" fontSize="1.5rem">Signalen is used in production at the municipality of 's-Hertogenbosch</Heading>
-            <p>Signalen was taken into production at the beginning of May in the municipality of 's-Hertogenbosch.</p>
+            <p>Signalen was taken into production at the beginning of March in the municipality of 's-Hertogenbosch.</p>
           </Timeline.Content>
         </Timeline.Container>
 
