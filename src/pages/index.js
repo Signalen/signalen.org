@@ -113,7 +113,7 @@ const IndexPage = ({ location }) => (
       <Timeline>
         <Timeline.Container align="left">
           <Timeline.Content>
-            <Span fontSize="0.9rem">Mei 2021</Span>
+            <Span fontSize="0.9rem">Maart 2021</Span>
             <Heading as="h3" fontSize="1.5rem">Signalen is in gebruik bij 's-Hertogenbosch</Heading>
             <p>Signalen is begin mei in product genomen in de gemeente 's-Hertogenbosch.</p>
           </Timeline.Content>
