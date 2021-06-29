@@ -111,9 +111,9 @@ const IndexPage = ({ location }) => (
       <Timeline>
         <Timeline.Container align="left">
           <Timeline.Content>
-            <Span fontSize="0.9rem">Q4 2020</Span>
-            <Heading as="h3" fontSize="1.5rem">Ready for production</Heading>
-            <p>Delivery of a municipal neutral version of the Signalen software. Signalen is ready for production for the municipal participants from the Kopgroep.</p>
+            <Span fontSize="0.9rem">March 2021</Span>
+            <Heading as="h3" fontSize="1.5rem">Signalen is used in production at the municipality of 's-Hertogenbosch</Heading>
+            <p>Signalen was taken into production at the beginning of March in the municipality of 's-Hertogenbosch.</p>
           </Timeline.Content>
         </Timeline.Container>
       </Timeline>
