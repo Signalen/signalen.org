@@ -42,7 +42,7 @@ Wil je discusieren en mee beslissen over de verdere ontwikkeling van Signalen? S
 
 Elke tweede donderdag van de maand van 10:00–10:30 (CEST) is er een community update overleg. Hier worden de laatste ontwikkelingen rondom Signalen besproken. Je bent van harte welkom om deze bij te wonen via Jitsi: https://meet.jit.si/Signalensprintreview
 
-### Maandelijkse Technical Steering call
+### Wekelijkse Technical Steering call
 
 Elke donderdag, 13:00–14:00 (CEST), houden ontwikkelaars van onze community een technische stuurbijeenkomst om technische problemen of nieuwe technische ontwikkelingen te bespreken. Je bent van harte welkom om deze bij te wonen via Jitsi: https://meet.jit.si/SignalenDevAmsVNG
 

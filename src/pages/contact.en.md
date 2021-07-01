@@ -42,7 +42,7 @@ Would you like to discuss and participate in the further development of Signalen
 
 Every second Thursday of the month between 10:00–10:30 (CEST) there is a community update call. In this call the community updates each other on the latest developments around Signalen. The call is open to everyone and you are welcome to join this call using the Jitsi: https://meet.jit.si/Signalensprintreview
 
-### Monthly Technical Steering call
+### Weekly Technical Steering call
 
 Every Thursday, 13:00–14:00 (CEST), contributing developer members of our community conduct a technical steering meeting to discuss technical issues or new technical developments. The call is open to everyone and you are welcome to join this call using the Jitsi: https://meet.jit.si/SignalenDevAmsVNG
 
