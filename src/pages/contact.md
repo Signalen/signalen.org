@@ -51,4 +51,9 @@ Elke donderdag, 13:00–14:00 (CEST), houden ontwikkelaars van onze community ee
 Elke derde donderdag van de maand, 11:00–12:00 (CEST), houden product owners van onze community een productstuurvergadering om nieuwe functies of gebruikersproblemen te bespreken. U bent van harte welkom om deze bijeenkomst bij te wonen door een verzoek te sturen naar signalen-discuss@lists.publiccode.net. Zorg ervoor dat je eerst [lid wordt van de Signalen mailinglist] (https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) voordat je een bericht verstuurt.
 
 ### Gedragscode
+
 We hebben een [gedragscode](https://github.com/Signalen/signalen.org/blob/master/CODE_OF_CONDUCT.md) waarvan we verwachten dat u deze volgt.
+
+### Beveiligingsbeleid
+
+Voor het melden van beveiligingsproblemen in de code vragen wij u om het [beveiligingsbeleid](https://github.com/Signalen/signalen.org/blob/master/SECURITY.md) te volgen.
