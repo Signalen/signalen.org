@@ -96,3 +96,8 @@ Every third Thursday of the month, 11:00–12:00 (CEST), contributing members of
 ### Code of Conduct
 
 We have a [code of conduct](https://github.com/Signalen/signalen.org/blob/master/CODE_OF_CONDUCT.md) that we expect you to follow.
+
+### Security policy
+
+We have a [security policy](https://github.com/Signalen/signalen.org/blob/master/SECURITY.md) for reporting security vulnerabilities.
+
