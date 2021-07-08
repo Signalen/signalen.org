@@ -65,7 +65,6 @@ Europalaan 2B<br />
 Telefoon: +31 (0)20 722 02 07<br />
 Email: [info@tiltshift.nl](mailto:info@tiltshift.nl)
 
-
 ## Kom in contact met de Signalen Community
 
 ### Signalen mailinglist
