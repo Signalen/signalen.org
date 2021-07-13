@@ -41,7 +41,7 @@ Implementation/Consultancy<br />
 
 Schellingwoudegracht 12<br />
 3826 CM Amersfoort<br />
-Telephone: +31(0)6 11047859<br />
+Telephone: +31 (0)6 110 478 59<br />
 Email: [info@macoin.nl](mailto:info@macoin.nl)
 
 **[Beheervisie (Melddesk)](https://www.beheervisie.nl/)** <br />
@@ -100,4 +100,3 @@ We have a [code of conduct](https://github.com/Signalen/signalen.org/blob/master
 ### Security policy
 
 We have a [security policy](https://github.com/Signalen/signalen.org/blob/master/SECURITY.md) for reporting security vulnerabilities.
-
