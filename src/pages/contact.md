@@ -32,6 +32,49 @@ René van Sprang<br />
 Categoriemanager gemeente Amsterdam<br />
 [r.van.sprang@amsterdam.nl](mailto:r.van.sprang@amsterdam.nl)
 
+### Leveranciers
+
+De volgende Leveranciers hebben ervaring bij het ondersteunen, implementeren en hosten van Signalen:
+
+**[MACOIN](https://www.macoin.nl/)**<br />
+Implementation/Consultancy<br />
+
+Schellingwoudegracht 12<br />
+3826 CM Amersfoort<br />
+Telefoon: +31( 0)6 110 478 59<br />
+Email: [info@macoin.nl](mailto:info@macoin.nl)
+
+**[Beheervisie (Melddesk)](https://www.beheervisie.nl/)** <br />
+Development/Consultancy/Implementation/Hosting/Support<br />
+
+Overschieseweg 34 B1<br />
+3044 EE Rotterdam<br />
+Telefoon: +31 (0)88 – 770 85 00<br />
+Email: [info@beheervisie.nl](mailto:info@beheervisie.nl)
+
+**[TRUE (Hosting service provider)](https://www.true.nl/)**<br />
+Hosting/Support<br />
+
+Telefoon: +31 (0)20 305 97 50<br />
+Email: [info@true.nl](mailto:info@true.nl)
+
+**[Maykin Media](https://www.maykinmedia.nl/)**<br />
+Development/Consultancy/Implementation/Hosting/Support<br />
+
+Keizersgracht 117<br />
+1015 CJ Amsterdam<br />
+Telefoon: +31 (0)20 753 05 23<br />
+Email: [info@maykinmedia.nl](mailto:info@maykinmedia.nl)
+
+**[TiltShift](https://www.tiltshift.nl/)**<br />
+Development/Consultancy<br />
+
+Vechtclub XL<br />
+Europalaan 2B<br />
+3526 KS Utrecht<br />
+Telefoon: +31 (0)20 722 02 07<br />
+Email: [info@tiltshift.nl](mailto:info@tiltshift.nl)
+
 ## Kom in contact met de Signalen Community
 
 ### Signalen mailinglist
@@ -53,6 +96,7 @@ Elke derde donderdag van de maand, 11:00–12:00 (CEST), houden product owners v
 ### Gedragscode
 
 We hebben een [gedragscode](https://github.com/Signalen/signalen.org/blob/master/CODE_OF_CONDUCT.md) waarvan we verwachten dat u deze volgt.
+
 
 ### Beveiligingsbeleid
 
