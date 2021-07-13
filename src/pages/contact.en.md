@@ -62,7 +62,7 @@ Email: [info@true.nl](mailto:info@true.nl)
 Development/Consultancy/Implementation/Hosting/Support<br />
 
 Keizersgracht 117<br />
-1015CJ Amsterdam<br />
+1015 CJ Amsterdam<br />
 Telephone: +31 (0)20 753 05 23<br />
 Email: [info@maykinmedia.nl](mailto:info@maykinmedia.nl)
 
