@@ -41,7 +41,7 @@ Implementation/Consultancy<br />
 
 Schellingwoudegracht 12<br />
 3826 CM Amersfoort<br />
-Telefoon: +31(0)6 11047859<br />
+Telefoon: +31( 0)6 110 478 59<br />
 Email: [info@macoin.nl](mailto:info@macoin.nl)
 
 **[Beheervisie (Melddesk)](https://www.beheervisie.nl/)** <br />
