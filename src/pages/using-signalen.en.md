@@ -25,7 +25,7 @@ Would you like to participate in the product steering group? Or would you like t
 
 ## For developers
 
-Are you a developer and would like to help us with the further development of Signalen? Please contact us via the [Common Ground Slack](https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q) to explore how we can make Signalen better together!
+Are you a developer and would like to help us with the further development of Signalen? Please contact us via the [Common Ground Slack](https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q) to explore how we can make Signalen better together.
 
 - Check out the [Signalen-repository on Github.](https://github.com/signalen)
 - [User Guide and Implementation Guide](https://docs.signalen.org)
