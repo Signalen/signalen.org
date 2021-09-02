@@ -29,7 +29,7 @@ Are you a developer and would like to help us with the further development of Si
 
 - Check out the [Signalen-repository on Github.](https://github.com/signalen)
 - [User Guide and Implementation Guide](https://docs.signalen.org)
-- Check out the [Signalen API documentation](https://api.data.amsterdam.nl/api/swagger/?url=/signals/swagger/openapi.yaml#/default/get_signals_v1_private_signals_geography)
+- Check out the [Signalen API documentation](https://api.data.amsterdam.nl/api/swagger/?url=/signals/swagger/openapi.yaml)
 
 For small very small things, opening a pull request is fine, as the developers have some time reserved for reviewing and responding to contributions.
 For larger contributions, joining the [Weekly Technical Steering call](https://signalen.org/en/contact/) first is recommended.
