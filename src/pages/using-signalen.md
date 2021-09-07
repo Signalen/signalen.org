@@ -28,7 +28,7 @@ Ben je een ontwikkelaar en wil je ons helpen met de doorontwikkeling van Signale
 
 - Kijk [hier](https://github.com/signalen) voor de Signalen-repository op Github
 - [Gebruikersdocumentatie en implementatiegids](https://docs.signalen.org)
-- [Signalen API documentatie](https://api.data.amsterdam.nl/api/swagger/?url=/signals/swagger/openapi.yaml#/default/get_signals_v1_private_signals_geography)
+- [Signalen API documentatie](https://api.data.amsterdam.nl/api/swagger/?url=/signals/swagger/openapi.yaml)
 
 Voor kleine toevoegingen en wijzigingen kan direct een pull request worden aangemaakt omdat ontwikkelaars tijd hebben gereserveerd om deze te bekijken en daarop te reageren.
 
