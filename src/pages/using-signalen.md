@@ -34,8 +34,8 @@ Voor kleine toevoegingen en wijzigingen kan direct een pull request worden aange
 
 Voor grotere toevoegingen en wijzigingen raden wij aan om de [Weekelijkse technical steering bijeenkomst](https://signalen.org/en/contact) bij te wonen.
 
-Deel nemen aan de weekelijkse technical steering bijeenkomst zorgt ervoor dat een nieuwe feature of wijziging duidelijk is voor alle ontwikkelaars en dat de gekozen oplossingsmethode in lijn is met de verdere toekomstige technische ontwikkelingen van de codebase.
+Deel nemen aan de weekelijkse technical steering bijeenkomst zorgt ervoor dat een nieuwe feature duidelijk is voor alle ontwikkelaars en dat de gekozen oplossingsmethode in lijn is met de verdere toekomstige technische ontwikkelingen van de codebase.
 
 Het verkrijgen van consensus dat de issue goed gedefineeerd is op Github te samen met overeenstemming aangaande de gekozen oplossingsmethode is essentieel om akkoord op een pull request te krijgen en deze te kunnen samenvoegen in de codebase.
 
-Een belangrijk onderdeel van de pull-request-review cyclus (voor het samenvoegen in de codebase) is dat ontwikkelaars een gedeelde overeenstemming hebben dat de code van voldoende kwaliteit is, voldoende is getests en voldoende onderhoudbaar is. Door deze werkwijze te volgen ligt het voor de hand om de nieuwe code te mergen en te onderhouden in de toekomst.
+Een belangrijk onderdeel van de pull-request-review cyclus (alvorens het mergen) is dat ontwikkelaars een gedeelde overeenstemming hebben over de code kwaliteit, dat de code voldoende is getest en voldoende onderhoudbaar is. Door deze werkwijze te volgen ligt het voor de hand om de nieuwe code te mergen en te onderhouden in de toekomst.
