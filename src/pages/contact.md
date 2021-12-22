@@ -68,7 +68,7 @@ Telefoon: +31 (0)20 305 97 50<br />
 Email: [info@true.nl](mailto:info@true.nl)
 
 **[Maykin Media](https://www.maykinmedia.nl/)**<br />
-Development/Consultancy/Implementation/Hosting/Support<br />
+Development/Consultancy/Implementation <br />
 
 Keizersgracht 117<br />
 1015 CJ Amsterdam<br />
@@ -76,7 +76,7 @@ Telefoon: +31 (0)20 753 05 23<br />
 Email: [info@maykinmedia.nl](mailto:info@maykinmedia.nl)
 
 **[Conduction](https://www.conduction.nl/)**<br />
-Development/Consultancy/Implementation/Hosting/Support<br />
+Development/Consultancy/Implementation/ <br />
 
 Lauriergracht 14h<br />
 1016 RL Amsterdam<br />
