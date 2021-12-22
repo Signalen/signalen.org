@@ -45,7 +45,7 @@ Telefoon: +31( 0)6 110 478 59<br />
 Email: [info@macoin.nl](mailto:info@macoin.nl)
 
 **[TiltShift](https://www.tiltshift.nl/)**<br />
-Implementation/Consultancy<br />
+Implementation/consultancy<br />
 
 Vechtclub XL<br />
 Europalaan 2B<br />
@@ -54,7 +54,7 @@ Telefoon: +31 (0)20 722 02 07<br />
 Email: [info@tiltshift.nl](mailto:info@tiltshift.nl)
 
 **[Delta10 (Signalen als een dienst)](https://www.delta10.nl/)**<br />
-Hosting/Support and implementation <br />
+Hosting/support and implementation <br />
 
 St.-Jacobsstraat 125<br />
 3511 BP Utrecht<br />
@@ -68,7 +68,7 @@ Telefoon: +31 (0)20 305 97 50<br />
 Email: [info@true.nl](mailto:info@true.nl)
 
 **[Maykin Media](https://www.maykinmedia.nl/)**<br />
-Development/Consultancy/Implementation <br />
+Development <br />
 
 Keizersgracht 117<br />
 1015 CJ Amsterdam<br />
@@ -76,7 +76,7 @@ Telefoon: +31 (0)20 753 05 23<br />
 Email: [info@maykinmedia.nl](mailto:info@maykinmedia.nl)
 
 **[Conduction](https://www.conduction.nl/)**<br />
-Development/Consultancy/Implementation/ <br />
+Development<br />
 
 Lauriergracht 14h<br />
 1016 RL Amsterdam<br />
