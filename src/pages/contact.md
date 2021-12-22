@@ -54,7 +54,7 @@ Telefoon: +31 (0)20 722 02 07<br />
 Email: [info@tiltshift.nl](mailto:info@tiltshift.nl)
 
 **[Delta10 (Signalen als een dienst)](https://www.delta10.nl/)**<br />
-Hosting/Support<br />
+Hosting/Support and implementation <br />
 
 St.-Jacobsstraat 125<br />
 3511 BP Utrecht<br />
