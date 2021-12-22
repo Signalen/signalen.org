@@ -6,12 +6,13 @@ template: "default"
 
 Samenwerken en Signalen gebruiken? Neem dan contact op met:
 
-### Programma, Community en accountmanagement
+### Programma, community en accountmanagement
 
 Jacco Brouwer<br />
 Programmamanager VNG Realisatie<br />
 [jacco.brouwer@vng.nl](mailto:jacco.brouwer@vng.nl)
 
+of
 
 Wouter Heijnen<br />
 Innovatie manager<br />
@@ -44,7 +45,7 @@ Telefoon: +31( 0)6 110 478 59<br />
 Email: [info@macoin.nl](mailto:info@macoin.nl)
 
 **[TiltShift](https://www.tiltshift.nl/)**<br />
-Development/Consultancy<br />
+Implementation/Consultancy<br />
 
 Vechtclub XL<br />
 Europalaan 2B<br />
