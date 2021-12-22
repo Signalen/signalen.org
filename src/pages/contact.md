@@ -6,13 +6,12 @@ template: "default"
 
 Samenwerken en Signalen gebruiken? Neem dan contact op met:
 
-### Programmamanager VNG Realisatie
+### Programma, Community en accountmanagement
 
 Jacco Brouwer<br />
 Programmamanager VNG Realisatie<br />
 [jacco.brouwer@vng.nl](mailto:jacco.brouwer@vng.nl)
 
-### Community en accountmanagement
 
 Wouter Heijnen<br />
 Innovatie manager<br />
@@ -44,13 +43,14 @@ Schellingwoudegracht 12<br />
 Telefoon: +31( 0)6 110 478 59<br />
 Email: [info@macoin.nl](mailto:info@macoin.nl)
 
-**[Beheervisie (Melddesk)](https://www.beheervisie.nl/)** <br />
-Development/Consultancy/Implementation/Hosting/Support<br />
+**[TiltShift](https://www.tiltshift.nl/)**<br />
+Development/Consultancy<br />
 
-Overschieseweg 34 B1<br />
-3044 EE Rotterdam<br />
-Telefoon: +31 (0)88 – 770 85 00<br />
-Email: [info@beheervisie.nl](mailto:info@beheervisie.nl)
+Vechtclub XL<br />
+Europalaan 2B<br />
+3526 KS Utrecht<br />
+Telefoon: +31 (0)20 722 02 07<br />
+Email: [info@tiltshift.nl](mailto:info@tiltshift.nl)
 
 **[Delta10 (Signalen als een dienst)](https://www.delta10.nl/)**<br />
 Hosting/Support<br />
@@ -60,7 +60,7 @@ St.-Jacobsstraat 125<br />
 Telefoon: +31 (0)85 303 42 26<br />
 Email: [info@delta10.nl](mailto:info@delta10.nl)
 
-**[TRUE (Hosting service provider)](https://www.true.nl/)**<br />
+**[TRUE (Hosting en service provider)](https://www.true.nl/)**<br />
 Hosting/Support<br />
 
 Telefoon: +31 (0)20 305 97 50<br />
@@ -74,14 +74,12 @@ Keizersgracht 117<br />
 Telefoon: +31 (0)20 753 05 23<br />
 Email: [info@maykinmedia.nl](mailto:info@maykinmedia.nl)
 
-**[TiltShift](https://www.tiltshift.nl/)**<br />
-Development/Consultancy<br />
+**[Conduction](https://www.conduction.nl/)**<br />
+Development/Consultancy/Implementation/Hosting/Support<br />
 
-Vechtclub XL<br />
-Europalaan 2B<br />
-3526 KS Utrecht<br />
-Telefoon: +31 (0)20 722 02 07<br />
-Email: [info@tiltshift.nl](mailto:info@tiltshift.nl)
+Lauriergracht 14h<br />
+1016 RL Amsterdam<br />
+Email: [info@conduction.nl](mailto:info@conduction.nl)
 
 ## Kom in contact met de Signalen Community
 
@@ -97,9 +95,9 @@ Elke tweede donderdag van de maand van 10:00–10:30 (CEST) is er een community 
 
 Elke donderdag, 13:00–14:00 (CEST), houden ontwikkelaars van onze community een technische stuurbijeenkomst om technische problemen of nieuwe technische ontwikkelingen te bespreken. Je bent van harte welkom om deze bij te wonen via Jitsi: https://meet.jit.si/SignalenDevAmsVNG
 
-### Maandelijkse Product Steering call
+### tweewekelijkse Product management call
 
-Elke derde donderdag van de maand, 11:00–12:00 (CEST), houden product owners van onze community een productstuurvergadering om nieuwe functies of gebruikersproblemen te bespreken. U bent van harte welkom om deze bijeenkomst bij te wonen door een verzoek te sturen naar signalen-discuss@lists.publiccode.net. Zorg ervoor dat je eerst [lid wordt van de Signalen mailinglist] (https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) voordat je een bericht verstuurt.
+Elke derde donderdag van de maand, 11:00–12:00 (CEST), houden product owners/business vertegenwoordigers van onze community een product management vergadering om nieuwe functies of gebruikersproblemen te bespreken. U bent van harte welkom om deze bijeenkomst bij te wonen door een verzoek te sturen naar signalen-discuss@lists.publiccode.net. Zorg ervoor dat je eerst [lid wordt van de Signalen mailinglist] (https://lists.publiccode.net/mailman/postorius/lists/signalen-discuss.lists.publiccode.net/) voordat je een bericht verstuurt.
 
 ### Gedragscode
 
