@@ -52,6 +52,14 @@ Overschieseweg 34 B1<br />
 Telefoon: +31 (0)88 – 770 85 00<br />
 Email: [info@beheervisie.nl](mailto:info@beheervisie.nl)
 
+**[Delta10 (Signalen als een dienst)](https://www.delta10.nl/)**<br />
+Hosting/Support<br />
+
+St.-Jacobsstraat 125<br />
+3511 BP Utrecht<br />
+Telefoon: +31 (0)85 303 42 26<br />
+Email: [info@delta10.nl](mailto:info@delta10.nl)
+
 **[TRUE (Hosting service provider)](https://www.true.nl/)**<br />
 Hosting/Support<br />
 
