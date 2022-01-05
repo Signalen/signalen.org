@@ -33,7 +33,7 @@ const IndexPage = ({ location }) => (
         </Section>
       </Container>
     </Background>
-    <Background backgroundColor="#24305E">
+    <Background backgroundColor="#FFFFFF">
       <Container>
         <Logos />
       </Container>
