@@ -4,7 +4,7 @@ import { StyledContainer } from './index.styles.js'
 import gemeenteAmsterdam from './images/gemeente-amsterdam.png'
 import gemeenteAlmere from './images/gemeente-almere.png'
 import gemeenteDenBosch from './images/gemeente-den-bosch.png'
-import gemeenteUtrecht from './images/gemeente-utecht.png'
+import gemeenteUtrecht from './images/gemeente-utrecht.png'
 import vng from './images/vng.png'
 import foundationForPublicCode from './images/foundation-for-public-code.png'
 
