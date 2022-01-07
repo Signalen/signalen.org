@@ -7,8 +7,8 @@ const LanguageSelector = (props) => {
   return (
     <StyledUl>
       {props.languages.map(language => (
-        <StyledLi>
-          <Link key={language.languageKey} to={language.link}>{language.languageKey.toUpperCase()}</Link>
+        <StyledLi key={language.languageKey}>
+          <Link to={language.link}>{language.languageKey.toUpperCase()}</Link>
         </StyledLi>
       ))}
     </StyledUl>
