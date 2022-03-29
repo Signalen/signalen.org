@@ -35,6 +35,9 @@
     "prettier": "^2.6.1",
     "react-refresh": "^0.11.0"
   },
+  "engines": {
+    "node": "^16.13.1"
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
